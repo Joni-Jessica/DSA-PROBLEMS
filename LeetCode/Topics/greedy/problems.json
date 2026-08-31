@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-31T19:58:07.492Z",
+  "updatedAt": "2026-08-31T19:58:48.556Z",
   "problems": [
     {
       "frontendId": "11",
@@ -42,7 +42,7 @@
           "filename": "0680-valid-palindrome-ii.java",
           "path": "LeetCode/0680-valid-palindrome-ii/0680-valid-palindrome-ii.java",
           "sha": "f462ed8ba7041d6980f01ca1ca36d3317030efce",
-          "lastSyncedAt": "2026-08-31T19:25:55.366Z"
+          "lastSyncedAt": "2026-08-31T19:58:48.556Z"
         }
       ]
     },
