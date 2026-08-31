@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-31T19:25:38.576Z",
+  "updatedAt": "2026-08-31T19:25:44.046Z",
   "problems": [
     {
       "frontendId": "11",
@@ -42,7 +42,7 @@
           "filename": "0015-3sum.java",
           "path": "LeetCode/0015-3sum/0015-3sum.java",
           "sha": "552c1c82f0487b5f7355971790d3a3c700952fa8",
-          "lastSyncedAt": "2026-08-31T19:22:34.461Z"
+          "lastSyncedAt": "2026-08-31T19:25:44.046Z"
         }
       ]
     },
