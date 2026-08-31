@@ -4,7 +4,7 @@
     "slug": "brainteaser",
     "name": "Brainteaser"
   },
-  "updatedAt": "2026-08-31T20:00:31.885Z",
+  "updatedAt": "2026-08-31T20:03:00.794Z",
   "problems": [
     {
       "frontendId": "292",
@@ -42,7 +42,7 @@
           "filename": "1025-divisor-game.java",
           "path": "LeetCode/1025-divisor-game/1025-divisor-game.java",
           "sha": "97429f3fe5e2c219be776a8cb17661aea829ee74",
-          "lastSyncedAt": "2026-08-31T20:00:19.612Z"
+          "lastSyncedAt": "2026-08-31T20:03:00.794Z"
         }
       ]
     }
