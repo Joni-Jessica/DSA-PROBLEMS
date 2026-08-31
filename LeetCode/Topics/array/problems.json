@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-31T18:44:43.023Z",
+  "updatedAt": "2026-08-31T18:46:12.829Z",
   "problems": [
     {
       "frontendId": "11",
@@ -202,7 +202,7 @@
           "filename": "2091-removing-minimum-and-maximum-from-array.java",
           "path": "LeetCode/2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.java",
           "sha": "19a7daa84618a939cf14b757397b7ed4ee7ffc9f",
-          "lastSyncedAt": "2026-08-31T18:42:37.081Z"
+          "lastSyncedAt": "2026-08-31T18:46:12.829Z"
         }
       ]
     },
