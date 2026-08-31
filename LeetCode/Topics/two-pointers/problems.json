@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-31T18:46:52.559Z",
+  "updatedAt": "2026-08-31T18:47:11.894Z",
   "problems": [
     {
       "frontendId": "11",
@@ -42,7 +42,7 @@
           "filename": "0015-3sum.java",
           "path": "LeetCode/0015-3sum/0015-3sum.java",
           "sha": "552c1c82f0487b5f7355971790d3a3c700952fa8",
-          "lastSyncedAt": "2026-08-31T18:43:41.585Z"
+          "lastSyncedAt": "2026-08-31T18:47:11.894Z"
         }
       ]
     },
