@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-31T20:03:38.765Z",
+  "updatedAt": "2026-08-31T20:04:02.112Z",
   "problems": [
     {
       "frontendId": "3",
@@ -62,7 +62,7 @@
           "filename": "0680-valid-palindrome-ii.java",
           "path": "LeetCode/0680-valid-palindrome-ii/0680-valid-palindrome-ii.java",
           "sha": "f462ed8ba7041d6980f01ca1ca36d3317030efce",
-          "lastSyncedAt": "2026-08-31T20:01:22.997Z"
+          "lastSyncedAt": "2026-08-31T20:04:02.112Z"
         }
       ]
     },
