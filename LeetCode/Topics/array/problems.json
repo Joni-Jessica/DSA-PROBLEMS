@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-31T18:50:41.432Z",
+  "updatedAt": "2026-08-31T18:50:47.262Z",
   "problems": [
     {
       "frontendId": "11",
@@ -222,7 +222,7 @@
           "filename": "3978-unique-middle-element.java",
           "path": "LeetCode/3978-unique-middle-element/3978-unique-middle-element.java",
           "sha": "66d8a8f2d073c75e351754c0edc3d1526ea7d487",
-          "lastSyncedAt": "2026-08-31T18:48:08.950Z"
+          "lastSyncedAt": "2026-08-31T18:50:47.262Z"
         }
       ]
     }
