@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-31T18:36:39.607Z",
+  "updatedAt": "2026-08-31T18:37:33.484Z",
   "problems": [
     {
       "frontendId": "292",
@@ -63,6 +63,26 @@
           "path": "LeetCode/3222-find-the-winning-player-in-coin-game/3222-find-the-winning-player-in-coin-game.java",
           "sha": "e2d1ddaacf4fbc5cbccb3ba8337a23e667791393",
           "lastSyncedAt": "2026-08-31T18:36:29.655Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3622",
+      "title": "Check Divisibility by Digit Sum and Product",
+      "slug": "check-divisibility-by-digit-sum-and-product",
+      "problemName": "3622-check-divisibility-by-digit-sum-and-product",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/",
+      "folderPath": "LeetCode/3622-check-divisibility-by-digit-sum-and-product/",
+      "readmePath": "LeetCode/3622-check-divisibility-by-digit-sum-and-product/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3622-check-divisibility-by-digit-sum-and-product.java",
+          "path": "LeetCode/3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.java",
+          "sha": "6a01efb85a9e6da280b9280a89613cfb83b554ef",
+          "lastSyncedAt": "2026-08-31T18:37:33.484Z"
         }
       ]
     }
