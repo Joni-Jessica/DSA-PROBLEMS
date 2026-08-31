@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-08-31T20:01:33.231Z",
+  "updatedAt": "2026-08-31T20:02:44.497Z",
   "problems": [
     {
       "frontendId": "4",
@@ -22,7 +22,7 @@
           "filename": "0004-median-of-two-sorted-arrays.java",
           "path": "LeetCode/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
           "sha": "23b4e4a71dc1f72c1c4e30d6541e66ecc1f82057",
-          "lastSyncedAt": "2026-08-31T20:00:03.586Z"
+          "lastSyncedAt": "2026-08-31T20:02:44.497Z"
         }
       ]
     },
