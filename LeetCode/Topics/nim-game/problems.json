@@ -4,7 +4,7 @@
     "slug": "nim-game",
     "name": "Nim Game"
   },
-  "updatedAt": "2026-08-31T18:42:58.276Z",
+  "updatedAt": "2026-08-31T18:46:32.351Z",
   "problems": [
     {
       "frontendId": "292",
@@ -22,7 +22,7 @@
           "filename": "0292-nim-game.java",
           "path": "LeetCode/0292-nim-game/0292-nim-game.java",
           "sha": "5b1c556be599347ace9e7c85d17fa37936aebe91",
-          "lastSyncedAt": "2026-08-31T18:42:58.276Z"
+          "lastSyncedAt": "2026-08-31T18:46:32.351Z"
         }
       ]
     }
