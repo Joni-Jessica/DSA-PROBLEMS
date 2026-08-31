@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum"
+  },
+  "updatedAt": "2026-08-31T18:37:38.464Z",
+  "problems": [
+    {
+      "frontendId": "560",
+      "title": "Subarray Sum Equals K",
+      "slug": "subarray-sum-equals-k",
+      "problemName": "0560-subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "folderPath": "LeetCode/0560-subarray-sum-equals-k/",
+      "readmePath": "LeetCode/0560-subarray-sum-equals-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0560-subarray-sum-equals-k.java",
+          "path": "LeetCode/0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
+          "sha": "030d6c9e93647e72792127afab306d534dba7879",
+          "lastSyncedAt": "2026-08-31T18:37:38.464Z"
+        }
+      ]
+    }
+  ]
+}
