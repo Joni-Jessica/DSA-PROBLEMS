@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-31T18:37:24.644Z",
+  "updatedAt": "2026-08-31T18:37:38.464Z",
   "problems": [
     {
       "frontendId": "3",
@@ -23,6 +23,26 @@
           "path": "LeetCode/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "0e0101d23ed1ed0dbc35ef922d597c390cfedbc9",
           "lastSyncedAt": "2026-08-31T18:37:24.644Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "560",
+      "title": "Subarray Sum Equals K",
+      "slug": "subarray-sum-equals-k",
+      "problemName": "0560-subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "folderPath": "LeetCode/0560-subarray-sum-equals-k/",
+      "readmePath": "LeetCode/0560-subarray-sum-equals-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0560-subarray-sum-equals-k.java",
+          "path": "LeetCode/0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
+          "sha": "030d6c9e93647e72792127afab306d534dba7879",
+          "lastSyncedAt": "2026-08-31T18:37:38.464Z"
         }
       ]
     },
