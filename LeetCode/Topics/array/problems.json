@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-31T19:01:03.753Z",
+  "updatedAt": "2026-08-31T19:01:19.108Z",
   "problems": [
     {
       "frontendId": "11",
@@ -182,7 +182,7 @@
           "filename": "0912-sort-an-array.java",
           "path": "LeetCode/0912-sort-an-array/0912-sort-an-array.java",
           "sha": "78226b0912670717162b24432cd79b4d676cd101",
-          "lastSyncedAt": "2026-08-31T18:50:11.831Z"
+          "lastSyncedAt": "2026-08-31T19:01:19.108Z"
         }
       ]
     },
