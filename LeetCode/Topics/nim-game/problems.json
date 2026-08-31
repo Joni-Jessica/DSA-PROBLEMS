@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "nim-game",
+    "name": "Nim Game"
+  },
+  "updatedAt": "2026-08-31T18:36:39.607Z",
+  "problems": [
+    {
+      "frontendId": "292",
+      "title": "Nim Game",
+      "slug": "nim-game",
+      "problemName": "0292-nim-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/nim-game/",
+      "folderPath": "LeetCode/0292-nim-game/",
+      "readmePath": "LeetCode/0292-nim-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0292-nim-game.java",
+          "path": "LeetCode/0292-nim-game/0292-nim-game.java",
+          "sha": "5b1c556be599347ace9e7c85d17fa37936aebe91",
+          "lastSyncedAt": "2026-08-31T18:36:39.607Z"
+        }
+      ]
+    }
+  ]
+}
