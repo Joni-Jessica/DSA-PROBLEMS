@@ -4,7 +4,7 @@
     "slug": "game-theory",
     "name": "Game Theory"
   },
-  "updatedAt": "2026-08-31T18:49:00.355Z",
+  "updatedAt": "2026-08-31T18:49:07.729Z",
   "problems": [
     {
       "frontendId": "292",
@@ -62,7 +62,7 @@
           "filename": "3222-find-the-winning-player-in-coin-game.java",
           "path": "LeetCode/3222-find-the-winning-player-in-coin-game/3222-find-the-winning-player-in-coin-game.java",
           "sha": "e2d1ddaacf4fbc5cbccb3ba8337a23e667791393",
-          "lastSyncedAt": "2026-08-31T18:46:26.908Z"
+          "lastSyncedAt": "2026-08-31T18:49:07.729Z"
         }
       ]
     }
