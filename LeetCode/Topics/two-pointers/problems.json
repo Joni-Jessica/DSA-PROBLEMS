@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-31T19:23:19.210Z",
+  "updatedAt": "2026-08-31T19:25:16.052Z",
   "problems": [
     {
       "frontendId": "11",
@@ -62,7 +62,7 @@
           "filename": "0042-trapping-rain-water.java",
           "path": "LeetCode/0042-trapping-rain-water/0042-trapping-rain-water.java",
           "sha": "a60a74f0151502c83347dcb252f2b76fba5838cc",
-          "lastSyncedAt": "2026-08-31T19:22:04.799Z"
+          "lastSyncedAt": "2026-08-31T19:25:16.052Z"
         }
       ]
     },
