@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-31T18:38:15.328Z",
+  "updatedAt": "2026-08-31T18:38:50.866Z",
   "problems": [
     {
       "frontendId": "11",
@@ -63,6 +63,26 @@
           "path": "LeetCode/0042-trapping-rain-water/0042-trapping-rain-water.java",
           "sha": "a60a74f0151502c83347dcb252f2b76fba5838cc",
           "lastSyncedAt": "2026-08-31T18:36:57.890Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "LeetCode/0075-sort-colors/",
+      "readmePath": "LeetCode/0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0075-sort-colors.java",
+          "path": "LeetCode/0075-sort-colors/0075-sort-colors.java",
+          "sha": "a1512f525c38864d10e93247e5d7e048344081ff",
+          "lastSyncedAt": "2026-08-31T18:38:50.866Z"
         }
       ]
     },
