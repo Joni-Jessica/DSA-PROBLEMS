@@ -4,7 +4,7 @@
     "slug": "game-theory",
     "name": "Game Theory"
   },
-  "updatedAt": "2026-08-31T18:36:39.607Z",
+  "updatedAt": "2026-08-31T18:42:42.214Z",
   "problems": [
     {
       "frontendId": "292",
@@ -42,7 +42,7 @@
           "filename": "1025-divisor-game.java",
           "path": "LeetCode/1025-divisor-game/1025-divisor-game.java",
           "sha": "97429f3fe5e2c219be776a8cb17661aea829ee74",
-          "lastSyncedAt": "2026-08-31T18:36:09.166Z"
+          "lastSyncedAt": "2026-08-31T18:42:42.214Z"
         }
       ]
     },
