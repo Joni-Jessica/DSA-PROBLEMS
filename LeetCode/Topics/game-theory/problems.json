@@ -4,7 +4,7 @@
     "slug": "game-theory",
     "name": "Game Theory"
   },
-  "updatedAt": "2026-08-31T18:36:09.166Z",
+  "updatedAt": "2026-08-31T18:36:29.655Z",
   "problems": [
     {
       "frontendId": "1025",
@@ -23,6 +23,26 @@
           "path": "LeetCode/1025-divisor-game/1025-divisor-game.java",
           "sha": "97429f3fe5e2c219be776a8cb17661aea829ee74",
           "lastSyncedAt": "2026-08-31T18:36:09.166Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3222",
+      "title": "Find the Winning Player in Coin Game",
+      "slug": "find-the-winning-player-in-coin-game",
+      "problemName": "3222-find-the-winning-player-in-coin-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-winning-player-in-coin-game/",
+      "folderPath": "LeetCode/3222-find-the-winning-player-in-coin-game/",
+      "readmePath": "LeetCode/3222-find-the-winning-player-in-coin-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3222-find-the-winning-player-in-coin-game.java",
+          "path": "LeetCode/3222-find-the-winning-player-in-coin-game/3222-find-the-winning-player-in-coin-game.java",
+          "sha": "e2d1ddaacf4fbc5cbccb3ba8337a23e667791393",
+          "lastSyncedAt": "2026-08-31T18:36:29.655Z"
         }
       ]
     }
