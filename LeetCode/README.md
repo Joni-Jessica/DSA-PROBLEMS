@@ -5,48 +5,38 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 9 | 10 | 1 |
+| 1 | 0 | 0 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 2 days | 4 |
+| 1 days | 1 days | 1 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-21 | 9 |
-| 2026-08-22 | 5 |
-| 2026-08-24 | 3 |
-| 2026-08-31 | 3 |
+| 2026-09-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 55% |
-| Two Pointers | 8 | 40% |
-| Math | 4 | 20% |
-| Sorting | 4 | 20% |
-| String | 4 | 20% |
-| Dynamic Programming | 3 | 15% |
-| Game Theory | 3 | 15% |
-| Greedy | 3 | 15% |
-| Hash Table | 3 | 15% |
-| Brainteaser | 2 | 10% |
+| Array | 1 | 100% |
+| Binary Search | 1 | 100% |
+| Divide and Conquer | 1 | 100% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 11 |
-| [Binary Search](Topics/binary-search/) | 1 |
+| [Array](Topics/array/) | 12 |
+| [Binary Search](Topics/binary-search/) | 2 |
 | [Brainteaser](Topics/brainteaser/) | 2 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Greedy](Topics/greedy/) | 3 |
