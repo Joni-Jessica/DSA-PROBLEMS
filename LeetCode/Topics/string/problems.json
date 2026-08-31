@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-31T18:38:07.337Z",
+  "updatedAt": "2026-08-31T18:38:15.328Z",
   "problems": [
     {
       "frontendId": "3",
@@ -23,6 +23,26 @@
           "path": "LeetCode/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "0e0101d23ed1ed0dbc35ef922d597c390cfedbc9",
           "lastSyncedAt": "2026-08-31T18:37:24.644Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "problemName": "0125-valid-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+      "folderPath": "LeetCode/0125-valid-palindrome/",
+      "readmePath": "LeetCode/0125-valid-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0125-valid-palindrome.java",
+          "path": "LeetCode/0125-valid-palindrome/0125-valid-palindrome.java",
+          "sha": "b10b3df29de901824af101c8b4182ef341c5b568",
+          "lastSyncedAt": "2026-08-31T18:38:15.328Z"
         }
       ]
     },
