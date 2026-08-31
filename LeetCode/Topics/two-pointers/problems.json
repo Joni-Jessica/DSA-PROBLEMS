@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-31T20:03:51.260Z",
+  "updatedAt": "2026-08-31T20:03:56.692Z",
   "problems": [
     {
       "frontendId": "11",
@@ -142,7 +142,7 @@
           "filename": "0167-two-sum-ii-input-array-is-sorted.java",
           "path": "LeetCode/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.java",
           "sha": "165f6f9fedbe8faecfff16f0ad7dbcef0c0a533d",
-          "lastSyncedAt": "2026-08-31T20:01:16.583Z"
+          "lastSyncedAt": "2026-08-31T20:03:56.692Z"
         }
       ]
     },
