@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-31T18:35:36.502Z",
+  "updatedAt": "2026-08-31T18:37:24.644Z",
   "problems": [
+    {
+      "frontendId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "problemName": "0003-longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "folderPath": "LeetCode/0003-longest-substring-without-repeating-characters/",
+      "readmePath": "LeetCode/0003-longest-substring-without-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0003-longest-substring-without-repeating-characters.java",
+          "path": "LeetCode/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
+          "sha": "0e0101d23ed1ed0dbc35ef922d597c390cfedbc9",
+          "lastSyncedAt": "2026-08-31T18:37:24.644Z"
+        }
+      ]
+    },
     {
       "frontendId": "3090",
       "title": "Maximum Length Substring With Two Occurrences",
