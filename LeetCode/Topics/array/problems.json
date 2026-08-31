@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-31T18:49:33.117Z",
+  "updatedAt": "2026-08-31T18:49:46.742Z",
   "problems": [
     {
       "frontendId": "11",
@@ -162,7 +162,7 @@
           "filename": "0560-subarray-sum-equals-k.java",
           "path": "LeetCode/0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "030d6c9e93647e72792127afab306d534dba7879",
-          "lastSyncedAt": "2026-08-31T18:47:05.052Z"
+          "lastSyncedAt": "2026-08-31T18:49:46.742Z"
         }
       ]
     },
