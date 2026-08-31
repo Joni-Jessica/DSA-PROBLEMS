@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-31T20:05:17.511Z",
+  "updatedAt": "2026-08-31T20:05:27.004Z",
   "problems": [
     {
       "frontendId": "4",
@@ -42,7 +42,7 @@
           "filename": "0011-container-with-most-water.java",
           "path": "LeetCode/0011-container-with-most-water/0011-container-with-most-water.java",
           "sha": "790df4033c8fd910185edb47ea1afe413597116f",
-          "lastSyncedAt": "2026-08-31T20:03:34.157Z"
+          "lastSyncedAt": "2026-08-31T20:05:27.004Z"
         }
       ]
     },
