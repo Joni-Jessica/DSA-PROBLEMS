@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-31T18:37:57.326Z",
+  "updatedAt": "2026-08-31T18:38:21.473Z",
   "problems": [
     {
       "frontendId": "11",
@@ -103,6 +103,26 @@
           "path": "LeetCode/0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "030d6c9e93647e72792127afab306d534dba7879",
           "lastSyncedAt": "2026-08-31T18:37:38.464Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "912",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "problemName": "0912-sort-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+      "folderPath": "LeetCode/0912-sort-an-array/",
+      "readmePath": "LeetCode/0912-sort-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0912-sort-an-array.java",
+          "path": "LeetCode/0912-sort-an-array/0912-sort-an-array.java",
+          "sha": "78226b0912670717162b24432cd79b4d676cd101",
+          "lastSyncedAt": "2026-08-31T18:38:21.473Z"
         }
       ]
     },
