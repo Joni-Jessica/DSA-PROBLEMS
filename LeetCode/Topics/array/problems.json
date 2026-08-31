@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-31T18:38:50.866Z",
+  "updatedAt": "2026-08-31T18:39:07.040Z",
   "problems": [
     {
       "frontendId": "11",
@@ -83,6 +83,26 @@
           "path": "LeetCode/0075-sort-colors/0075-sort-colors.java",
           "sha": "a1512f525c38864d10e93247e5d7e048344081ff",
           "lastSyncedAt": "2026-08-31T18:38:50.866Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "LeetCode/0088-merge-sorted-array/",
+      "readmePath": "LeetCode/0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0088-merge-sorted-array.java",
+          "path": "LeetCode/0088-merge-sorted-array/0088-merge-sorted-array.java",
+          "sha": "ffcd0e72d7a6beb2622880135f6afb82bd31b414",
+          "lastSyncedAt": "2026-08-31T18:39:07.040Z"
         }
       ]
     },
