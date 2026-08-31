@@ -4,7 +4,7 @@
     "slug": "counting-sort",
     "name": "Counting Sort"
   },
-  "updatedAt": "2026-08-31T18:47:33.525Z",
+  "updatedAt": "2026-08-31T18:50:11.831Z",
   "problems": [
     {
       "frontendId": "912",
@@ -22,7 +22,7 @@
           "filename": "0912-sort-an-array.java",
           "path": "LeetCode/0912-sort-an-array/0912-sort-an-array.java",
           "sha": "78226b0912670717162b24432cd79b4d676cd101",
-          "lastSyncedAt": "2026-08-31T18:47:33.525Z"
+          "lastSyncedAt": "2026-08-31T18:50:11.831Z"
         }
       ]
     }
