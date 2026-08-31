@@ -5,25 +5,36 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 1 | 0 | 0 | 1 |
+| 19 | 8 | 9 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 1 days | 1 |
+| 2 days | 2 days | 5 |
 
 | Date | Problems |
 | --- | ---: |
+| 2026-08-21 | 7 |
+| 2026-08-22 | 5 |
+| 2026-08-24 | 3 |
+| 2026-08-31 | 3 |
 | 2026-09-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 1 | 100% |
-| Binary Search | 1 | 100% |
-| Divide and Conquer | 1 | 100% |
+| Array | 10 | 53% |
+| Two Pointers | 8 | 42% |
+| Math | 4 | 21% |
+| Sorting | 4 | 21% |
+| String | 4 | 21% |
+| Game Theory | 3 | 16% |
+| Greedy | 3 | 16% |
+| Hash Table | 3 | 16% |
+| Binary Search | 2 | 11% |
+| Brainteaser | 2 | 11% |
 
 ## Topics
 
