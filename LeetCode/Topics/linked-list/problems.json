@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-31T18:59:57.078Z",
+  "updatedAt": "2026-08-31T19:21:33.536Z",
   "problems": [
     {
       "frontendId": "2058",
@@ -22,7 +22,7 @@
           "filename": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points.java",
           "path": "LeetCode/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points.java",
           "sha": "147c88b22b41349309050dfaec801f71d4e6ca32",
-          "lastSyncedAt": "2026-08-31T18:59:57.078Z"
+          "lastSyncedAt": "2026-08-31T19:21:33.536Z"
         }
       ]
     }
