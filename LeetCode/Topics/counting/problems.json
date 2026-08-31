@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "counting",
+    "name": "Counting"
+  },
+  "updatedAt": "2026-08-31T18:39:25.169Z",
+  "problems": [
+    {
+      "frontendId": "3978",
+      "title": "Unique Middle Element",
+      "slug": "unique-middle-element",
+      "problemName": "3978-unique-middle-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-middle-element/",
+      "folderPath": "LeetCode/3978-unique-middle-element/",
+      "readmePath": "LeetCode/3978-unique-middle-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3978-unique-middle-element.java",
+          "path": "LeetCode/3978-unique-middle-element/3978-unique-middle-element.java",
+          "sha": "66d8a8f2d073c75e351754c0edc3d1526ea7d487",
+          "lastSyncedAt": "2026-08-31T18:39:25.169Z"
+        }
+      ]
+    }
+  ]
+}
