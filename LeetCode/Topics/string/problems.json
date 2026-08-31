@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-31T20:02:51.354Z",
+  "updatedAt": "2026-08-31T20:03:38.765Z",
   "problems": [
     {
       "frontendId": "3",
@@ -22,7 +22,7 @@
           "filename": "0003-longest-substring-without-repeating-characters.java",
           "path": "LeetCode/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "0e0101d23ed1ed0dbc35ef922d597c390cfedbc9",
-          "lastSyncedAt": "2026-08-31T20:00:56.462Z"
+          "lastSyncedAt": "2026-08-31T20:03:38.765Z"
         }
       ]
     },
