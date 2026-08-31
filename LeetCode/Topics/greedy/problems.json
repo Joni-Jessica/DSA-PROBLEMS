@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-31T18:37:16.248Z",
+  "updatedAt": "2026-08-31T18:38:07.337Z",
   "problems": [
     {
       "frontendId": "11",
@@ -23,6 +23,26 @@
           "path": "LeetCode/0011-container-with-most-water/0011-container-with-most-water.java",
           "sha": "790df4033c8fd910185edb47ea1afe413597116f",
           "lastSyncedAt": "2026-08-31T18:37:16.248Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "680",
+      "title": "Valid Palindrome II",
+      "slug": "valid-palindrome-ii",
+      "problemName": "0680-valid-palindrome-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome-ii/",
+      "folderPath": "LeetCode/0680-valid-palindrome-ii/",
+      "readmePath": "LeetCode/0680-valid-palindrome-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0680-valid-palindrome-ii.java",
+          "path": "LeetCode/0680-valid-palindrome-ii/0680-valid-palindrome-ii.java",
+          "sha": "f462ed8ba7041d6980f01ca1ca36d3317030efce",
+          "lastSyncedAt": "2026-08-31T18:38:07.337Z"
         }
       ]
     },
