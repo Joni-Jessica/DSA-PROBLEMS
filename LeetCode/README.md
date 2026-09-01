@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 19 | 8 | 9 | 2 |
+| 21 | 8 | 11 | 2 |
 
 ## Activity
 
@@ -19,30 +19,32 @@ Contains topicwise list of solved problems.
 | 2026-08-22 | 5 |
 | 2026-08-24 | 3 |
 | 2026-08-31 | 3 |
-| 2026-09-01 | 1 |
+| 2026-09-01 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 10 | 53% |
-| Two Pointers | 8 | 42% |
-| Math | 4 | 21% |
-| Sorting | 4 | 21% |
-| String | 4 | 21% |
-| Game Theory | 3 | 16% |
-| Greedy | 3 | 16% |
-| Hash Table | 3 | 16% |
-| Binary Search | 2 | 11% |
-| Brainteaser | 2 | 11% |
+| Array | 11 | 52% |
+| Two Pointers | 8 | 38% |
+| Math | 5 | 24% |
+| Hash Table | 4 | 19% |
+| Sorting | 4 | 19% |
+| String | 4 | 19% |
+| Game Theory | 3 | 14% |
+| Greedy | 3 | 14% |
+| Binary Search | 2 | 10% |
+| Brainteaser | 2 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 12 |
+| [Array](Topics/array/) | 13 |
 | [Binary Search](Topics/binary-search/) | 2 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Brainteaser](Topics/brainteaser/) | 2 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 1 |
@@ -51,11 +53,12 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 3 |
+| [Hash Table](Topics/hash-table/) | 4 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 4 |
+| [Math](Topics/math/) | 5 |
+| [Matrix](Topics/matrix/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
