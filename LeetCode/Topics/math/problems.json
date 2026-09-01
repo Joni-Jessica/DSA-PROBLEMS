@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-31T20:05:37.961Z",
+  "updatedAt": "2026-09-01T16:56:56.562Z",
   "problems": [
+    {
+      "frontendId": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "problemName": "0007-reverse-integer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+      "folderPath": "LeetCode/0007-reverse-integer/",
+      "readmePath": "LeetCode/0007-reverse-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0007-reverse-integer.java",
+          "path": "LeetCode/0007-reverse-integer/0007-reverse-integer.java",
+          "sha": "38754f1a7d95a1abab896ce8189532747be45f63",
+          "lastSyncedAt": "2026-09-01T16:56:56.562Z"
+        }
+      ]
+    },
     {
       "frontendId": "292",
       "title": "Nim Game",
