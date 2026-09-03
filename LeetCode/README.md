@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 8 | 11 | 2 |
+| 23 | 9 | 12 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 5 |
+| 4 days | 4 days | 7 |
 
 | Date | Problems |
 | --- | ---: |
@@ -20,27 +20,29 @@ Contains topicwise list of solved problems.
 | 2026-08-24 | 3 |
 | 2026-08-31 | 3 |
 | 2026-09-01 | 3 |
+| 2026-09-02 | 1 |
+| 2026-09-03 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 52% |
-| Two Pointers | 8 | 38% |
-| Math | 5 | 24% |
-| Hash Table | 4 | 19% |
-| Sorting | 4 | 19% |
-| String | 4 | 19% |
-| Game Theory | 3 | 14% |
-| Greedy | 3 | 14% |
-| Binary Search | 2 | 10% |
-| Brainteaser | 2 | 10% |
+| Array | 13 | 57% |
+| Two Pointers | 8 | 35% |
+| Math | 7 | 30% |
+| Hash Table | 4 | 17% |
+| Sorting | 4 | 17% |
+| String | 4 | 17% |
+| Game Theory | 3 | 13% |
+| Greedy | 3 | 13% |
+| Binary Search | 2 | 9% |
+| Brainteaser | 2 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 13 |
+| [Array](Topics/array/) | 15 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Brainteaser](Topics/brainteaser/) | 2 |
@@ -57,7 +59,7 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 5 |
+| [Math](Topics/math/) | 7 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
