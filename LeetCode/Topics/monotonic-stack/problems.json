@@ -4,7 +4,7 @@
     "slug": "monotonic-stack",
     "name": "Monotonic Stack"
   },
-  "updatedAt": "2026-08-31T20:05:17.511Z",
+  "updatedAt": "2026-09-04T12:26:12.078Z",
   "problems": [
     {
       "frontendId": "42",
@@ -22,7 +22,7 @@
           "filename": "0042-trapping-rain-water.java",
           "path": "LeetCode/0042-trapping-rain-water/0042-trapping-rain-water.java",
           "sha": "a60a74f0151502c83347dcb252f2b76fba5838cc",
-          "lastSyncedAt": "2026-08-31T20:05:17.511Z"
+          "lastSyncedAt": "2026-09-04T12:26:12.078Z"
         }
       ]
     }
