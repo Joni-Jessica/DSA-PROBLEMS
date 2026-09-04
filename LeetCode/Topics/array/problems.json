@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-03T16:00:55.453Z",
+  "updatedAt": "2026-09-04T11:44:50.953Z",
   "problems": [
     {
       "frontendId": "4",
@@ -283,6 +283,26 @@
           "path": "LeetCode/3876-construct-uniform-parity-array-ii/3876-construct-uniform-parity-array-ii.java",
           "sha": "95b1c1de6df659e8855d4ed27aa7c7f545ea1867",
           "lastSyncedAt": "2026-09-03T16:00:55.453Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3903",
+      "title": "Smallest Stable Index I",
+      "slug": "smallest-stable-index-i",
+      "problemName": "3903-smallest-stable-index-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
+      "folderPath": "LeetCode/3903-smallest-stable-index-i/",
+      "readmePath": "LeetCode/3903-smallest-stable-index-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3903-smallest-stable-index-i.java",
+          "path": "LeetCode/3903-smallest-stable-index-i/3903-smallest-stable-index-i.java",
+          "sha": "97aa574349f651f3da383a598912b23d3b25eade",
+          "lastSyncedAt": "2026-09-04T11:44:50.953Z"
         }
       ]
     },
