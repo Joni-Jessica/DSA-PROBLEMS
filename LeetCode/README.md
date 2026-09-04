@@ -5,45 +5,44 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 26 | 12 | 12 | 2 |
+| 19 | 10 | 7 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 5 days | 8 |
+| 5 days | 5 days | 7 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-21 | 7 |
-| 2026-08-22 | 5 |
+| 2026-08-22 | 4 |
 | 2026-08-24 | 3 |
 | 2026-08-31 | 3 |
 | 2026-09-01 | 3 |
 | 2026-09-02 | 1 |
 | 2026-09-03 | 1 |
-| 2026-09-04 | 3 |
+| 2026-09-04 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 14 | 54% |
-| Math | 9 | 35% |
-| Two Pointers | 8 | 31% |
-| Hash Table | 4 | 15% |
-| Sorting | 4 | 15% |
-| String | 4 | 15% |
-| Game Theory | 3 | 12% |
-| Greedy | 3 | 12% |
-| Binary Search | 2 | 8% |
-| Brainteaser | 2 | 8% |
+| Array | 9 | 47% |
+| Math | 9 | 47% |
+| Game Theory | 3 | 16% |
+| Hash Table | 3 | 16% |
+| Brainteaser | 2 | 11% |
+| Dynamic Programming | 2 | 11% |
+| Greedy | 2 | 11% |
+| Impartial Game | 2 | 11% |
+| Matrix | 2 | 11% |
+| Sliding Window | 2 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 16 |
+| [Array](Topics/array/) | 17 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Brainteaser](Topics/brainteaser/) | 2 |
@@ -61,7 +60,7 @@ Contains topicwise list of solved problems.
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
 | [Math](Topics/math/) | 9 |
-| [Matrix](Topics/matrix/) | 1 |
+| [Matrix](Topics/matrix/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
@@ -74,5 +73,5 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 4 |
-| [two-pointers](Topics/two-pointers/) | 0 |
+| [Two Pointers](Topics/two-pointers/) | 8 |
 <!---LeetHub Summary End-->
