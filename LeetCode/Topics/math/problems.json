@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-04T12:25:55.323Z",
+  "updatedAt": "2026-09-04T12:26:01.196Z",
   "problems": [
     {
       "frontendId": "7",
@@ -42,7 +42,7 @@
           "filename": "0292-nim-game.java",
           "path": "LeetCode/0292-nim-game/0292-nim-game.java",
           "sha": "5b1c556be599347ace9e7c85d17fa37936aebe91",
-          "lastSyncedAt": "2026-08-31T20:05:07.417Z"
+          "lastSyncedAt": "2026-09-04T12:26:01.196Z"
         }
       ]
     },
