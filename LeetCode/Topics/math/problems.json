@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-04T12:22:41.884Z",
+  "updatedAt": "2026-09-04T12:24:56.753Z",
   "problems": [
     {
       "frontendId": "7",
@@ -102,7 +102,7 @@
           "filename": "2651-calculate-delayed-arrival-time.java",
           "path": "LeetCode/2651-calculate-delayed-arrival-time/2651-calculate-delayed-arrival-time.java",
           "sha": "5adf7d5542b5ed461aec46c695014d14abe6488b",
-          "lastSyncedAt": "2026-09-04T12:22:41.884Z"
+          "lastSyncedAt": "2026-09-04T12:24:56.753Z"
         }
       ]
     },
