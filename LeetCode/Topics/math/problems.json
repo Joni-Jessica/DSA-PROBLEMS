@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-04T12:21:03.758Z",
+  "updatedAt": "2026-09-04T12:22:41.884Z",
   "problems": [
     {
       "frontendId": "7",
@@ -83,6 +83,26 @@
           "path": "LeetCode/2235-add-two-integers/2235-add-two-integers.java",
           "sha": "dbf613ede2f119920793e490766c7467c19ca0b1",
           "lastSyncedAt": "2026-09-04T12:21:03.758Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2651",
+      "title": "Calculate Delayed Arrival Time",
+      "slug": "calculate-delayed-arrival-time",
+      "problemName": "2651-calculate-delayed-arrival-time",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-delayed-arrival-time/",
+      "folderPath": "LeetCode/2651-calculate-delayed-arrival-time/",
+      "readmePath": "LeetCode/2651-calculate-delayed-arrival-time/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2651-calculate-delayed-arrival-time.java",
+          "path": "LeetCode/2651-calculate-delayed-arrival-time/2651-calculate-delayed-arrival-time.java",
+          "sha": "5adf7d5542b5ed461aec46c695014d14abe6488b",
+          "lastSyncedAt": "2026-09-04T12:22:41.884Z"
         }
       ]
     },
