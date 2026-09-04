@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 10 | 12 | 2 |
+| 26 | 12 | 12 | 2 |
 
 ## Activity
 
@@ -22,20 +22,20 @@ Contains topicwise list of solved problems.
 | 2026-09-01 | 3 |
 | 2026-09-02 | 1 |
 | 2026-09-03 | 1 |
-| 2026-09-04 | 1 |
+| 2026-09-04 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 14 | 58% |
-| Two Pointers | 8 | 33% |
-| Math | 7 | 29% |
-| Hash Table | 4 | 17% |
-| Sorting | 4 | 17% |
-| String | 4 | 17% |
-| Game Theory | 3 | 13% |
-| Greedy | 3 | 13% |
+| Array | 14 | 54% |
+| Math | 9 | 35% |
+| Two Pointers | 8 | 31% |
+| Hash Table | 4 | 15% |
+| Sorting | 4 | 15% |
+| String | 4 | 15% |
+| Game Theory | 3 | 12% |
+| Greedy | 3 | 12% |
 | Binary Search | 2 | 8% |
 | Brainteaser | 2 | 8% |
 
@@ -60,7 +60,7 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
@@ -74,5 +74,5 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 4 |
-| [Two Pointers](Topics/two-pointers/) | 8 |
+| [two-pointers](Topics/two-pointers/) | 0 |
 <!---LeetHub Summary End-->
