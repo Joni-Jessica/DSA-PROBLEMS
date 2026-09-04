@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-08-31T20:05:40.063Z",
+  "updatedAt": "2026-09-04T11:44:50.953Z",
   "problems": [
     {
       "frontendId": "560",
@@ -23,6 +23,26 @@
           "path": "LeetCode/0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "030d6c9e93647e72792127afab306d534dba7879",
           "lastSyncedAt": "2026-08-31T20:05:40.063Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3903",
+      "title": "Smallest Stable Index I",
+      "slug": "smallest-stable-index-i",
+      "problemName": "3903-smallest-stable-index-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
+      "folderPath": "LeetCode/3903-smallest-stable-index-i/",
+      "readmePath": "LeetCode/3903-smallest-stable-index-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3903-smallest-stable-index-i.java",
+          "path": "LeetCode/3903-smallest-stable-index-i/3903-smallest-stable-index-i.java",
+          "sha": "97aa574349f651f3da383a598912b23d3b25eade",
+          "lastSyncedAt": "2026-09-04T11:44:50.953Z"
         }
       ]
     }
