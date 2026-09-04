@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-04T12:25:45.976Z",
+  "updatedAt": "2026-09-04T12:25:55.323Z",
   "problems": [
     {
       "frontendId": "7",
@@ -122,7 +122,7 @@
           "filename": "3222-find-the-winning-player-in-coin-game.java",
           "path": "LeetCode/3222-find-the-winning-player-in-coin-game/3222-find-the-winning-player-in-coin-game.java",
           "sha": "e2d1ddaacf4fbc5cbccb3ba8337a23e667791393",
-          "lastSyncedAt": "2026-08-31T20:05:01.675Z"
+          "lastSyncedAt": "2026-09-04T12:25:55.323Z"
         }
       ]
     },
