@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 19 | 10 | 7 | 2 |
+| 20 | 10 | 8 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 5 days | 7 |
+| 6 days | 6 days | 8 |
 
 | Date | Problems |
 | --- | ---: |
@@ -22,27 +22,28 @@ Contains topicwise list of solved problems.
 | 2026-09-02 | 1 |
 | 2026-09-03 | 1 |
 | 2026-09-04 | 4 |
+| 2026-09-05 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 9 | 47% |
-| Math | 9 | 47% |
-| Game Theory | 3 | 16% |
-| Hash Table | 3 | 16% |
-| Brainteaser | 2 | 11% |
-| Dynamic Programming | 2 | 11% |
-| Greedy | 2 | 11% |
-| Impartial Game | 2 | 11% |
-| Matrix | 2 | 11% |
-| Sliding Window | 2 | 11% |
+| Array | 10 | 50% |
+| Math | 9 | 45% |
+| Game Theory | 3 | 15% |
+| Hash Table | 3 | 15% |
+| Brainteaser | 2 | 10% |
+| Dynamic Programming | 2 | 10% |
+| Greedy | 2 | 10% |
+| Impartial Game | 2 | 10% |
+| Matrix | 2 | 10% |
+| Prefix Sum | 2 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 17 |
+| [Array](Topics/array/) | 18 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Brainteaser](Topics/brainteaser/) | 2 |
@@ -65,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Nim Game](Topics/nim-game/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 2 |
+| [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
