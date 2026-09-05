@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-05T16:25:00.173Z",
+  "updatedAt": "2026-09-05T16:28:40.898Z",
   "problems": [
     {
       "frontendId": "4",
@@ -322,7 +322,7 @@
           "filename": "3903-smallest-stable-index-i.java",
           "path": "LeetCode/3903-smallest-stable-index-i/3903-smallest-stable-index-i.java",
           "sha": "97aa574349f651f3da383a598912b23d3b25eade",
-          "lastSyncedAt": "2026-09-04T12:25:01.581Z"
+          "lastSyncedAt": "2026-09-05T16:28:40.898Z"
         }
       ]
     },
