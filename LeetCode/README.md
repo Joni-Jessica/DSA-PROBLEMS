@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 10 | 8 | 2 |
+| 21 | 10 | 8 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 6 days | 8 |
+| 7 days | 7 days | 9 |
 
 | Date | Problems |
 | --- | ---: |
@@ -23,21 +23,22 @@ Contains topicwise list of solved problems.
 | 2026-09-03 | 1 |
 | 2026-09-04 | 4 |
 | 2026-09-05 | 1 |
+| 2026-09-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 10 | 50% |
-| Math | 9 | 45% |
-| Game Theory | 3 | 15% |
-| Hash Table | 3 | 15% |
+| Array | 10 | 48% |
+| Math | 9 | 43% |
+| Dynamic Programming | 3 | 14% |
+| Game Theory | 3 | 14% |
+| Hash Table | 3 | 14% |
+| String | 3 | 14% |
 | Brainteaser | 2 | 10% |
-| Dynamic Programming | 2 | 10% |
 | Greedy | 2 | 10% |
 | Impartial Game | 2 | 10% |
 | Matrix | 2 | 10% |
-| Prefix Sum | 2 | 10% |
 
 ## Topics
 
@@ -53,7 +54,7 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 1 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 4 |
@@ -73,6 +74,6 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 4 |
+| [String](Topics/string/) | 5 |
 | [Two Pointers](Topics/two-pointers/) | 8 |
 <!---LeetHub Summary End-->
