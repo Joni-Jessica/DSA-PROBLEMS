@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-04T12:26:27.912Z",
+  "updatedAt": "2026-09-06T13:54:53.825Z",
   "problems": [
     {
       "frontendId": "3",
@@ -23,6 +23,26 @@
           "path": "LeetCode/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "0e0101d23ed1ed0dbc35ef922d597c390cfedbc9",
           "lastSyncedAt": "2026-09-04T12:26:27.912Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "115",
+      "title": "Distinct Subsequences",
+      "slug": "distinct-subsequences",
+      "problemName": "0115-distinct-subsequences",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences/",
+      "folderPath": "LeetCode/0115-distinct-subsequences/",
+      "readmePath": "LeetCode/0115-distinct-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0115-distinct-subsequences.java",
+          "path": "LeetCode/0115-distinct-subsequences/0115-distinct-subsequences.java",
+          "sha": "a9dbaf351926fff5b5b4cf251eb70b6ad15e90a6",
+          "lastSyncedAt": "2026-09-06T13:54:53.825Z"
         }
       ]
     },
