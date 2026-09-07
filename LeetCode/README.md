@@ -54,7 +54,7 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 1 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 4 |
@@ -74,6 +74,6 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 5 |
+| [String](Topics/string/) | 6 |
 | [Two Pointers](Topics/two-pointers/) | 8 |
 <!---LeetHub Summary End-->
