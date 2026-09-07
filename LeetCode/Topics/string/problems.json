@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-07T16:47:30.412Z",
+  "updatedAt": "2026-09-07T16:48:12.243Z",
   "problems": [
     {
       "frontendId": "3",
@@ -102,7 +102,7 @@
           "filename": "0940-distinct-subsequences-ii.java",
           "path": "LeetCode/0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.java",
           "sha": "5179c92c72de8648e1a2b99b6454a8dd9d055d7c",
-          "lastSyncedAt": "2026-09-07T16:47:30.412Z"
+          "lastSyncedAt": "2026-09-07T16:48:12.243Z"
         }
       ]
     },
