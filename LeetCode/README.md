@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 11 | 8 | 3 |
+| 23 | 11 | 9 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 7 days | 10 |
+| 2 days | 7 days | 11 |
 
 | Date | Problems |
 | --- | ---: |
@@ -25,17 +25,18 @@ Contains topicwise list of solved problems.
 | 2026-09-05 | 1 |
 | 2026-09-06 | 1 |
 | 2026-09-08 | 1 |
+| 2026-09-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 10 | 45% |
-| Math | 10 | 45% |
-| Dynamic Programming | 3 | 14% |
-| Game Theory | 3 | 14% |
-| Hash Table | 3 | 14% |
-| String | 3 | 14% |
+| Math | 11 | 48% |
+| Array | 10 | 43% |
+| Dynamic Programming | 3 | 13% |
+| Game Theory | 3 | 13% |
+| Hash Table | 3 | 13% |
+| String | 3 | 13% |
 | Brainteaser | 2 | 9% |
 | Greedy | 2 | 9% |
 | Impartial Game | 2 | 9% |
@@ -62,7 +63,7 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 10 |
+| [Math](Topics/math/) | 11 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
