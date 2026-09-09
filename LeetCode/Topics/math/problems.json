@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-08T16:46:35.380Z",
+  "updatedAt": "2026-09-09T18:25:50.201Z",
   "problems": [
     {
       "frontendId": "7",
@@ -163,6 +163,26 @@
           "path": "LeetCode/3870-count-commas-in-range/3870-count-commas-in-range.java",
           "sha": "588442d88c2e0b3f014ccc796594fe6a0f7e8958",
           "lastSyncedAt": "2026-09-08T16:46:35.380Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3871",
+      "title": "Count Commas in Range II",
+      "slug": "count-commas-in-range-ii",
+      "problemName": "3871-count-commas-in-range-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-commas-in-range-ii/",
+      "folderPath": "LeetCode/3871-count-commas-in-range-ii/",
+      "readmePath": "LeetCode/3871-count-commas-in-range-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3871-count-commas-in-range-ii.java",
+          "path": "LeetCode/3871-count-commas-in-range-ii/3871-count-commas-in-range-ii.java",
+          "sha": "ea97f35982c2a55d4c3914020a5f924fb214e95c",
+          "lastSyncedAt": "2026-09-09T18:25:50.201Z"
         }
       ]
     },
