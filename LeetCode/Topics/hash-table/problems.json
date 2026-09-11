@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-04T12:26:27.912Z",
+  "updatedAt": "2026-09-11T15:25:17.760Z",
   "problems": [
     {
       "frontendId": "3",
@@ -63,6 +63,26 @@
           "path": "LeetCode/3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.java",
           "sha": "43c393894bbf39ea1914e18f9900bd7789fb6d04",
           "lastSyncedAt": "2026-09-04T12:25:35.256Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3483",
+      "title": "Unique 3-Digit Even Numbers",
+      "slug": "unique-3-digit-even-numbers",
+      "problemName": "3483-unique-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+      "folderPath": "LeetCode/3483-unique-3-digit-even-numbers/",
+      "readmePath": "LeetCode/3483-unique-3-digit-even-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3483-unique-3-digit-even-numbers.java",
+          "path": "LeetCode/3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.java",
+          "sha": "fe76d0b5f941d15b94a924eb5f244331749ec397",
+          "lastSyncedAt": "2026-09-11T15:25:17.760Z"
         }
       ]
     },
