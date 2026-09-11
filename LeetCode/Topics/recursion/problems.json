@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "recursion",
+    "name": "Recursion"
+  },
+  "updatedAt": "2026-09-11T15:25:17.760Z",
+  "problems": [
+    {
+      "frontendId": "3483",
+      "title": "Unique 3-Digit Even Numbers",
+      "slug": "unique-3-digit-even-numbers",
+      "problemName": "3483-unique-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+      "folderPath": "LeetCode/3483-unique-3-digit-even-numbers/",
+      "readmePath": "LeetCode/3483-unique-3-digit-even-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3483-unique-3-digit-even-numbers.java",
+          "path": "LeetCode/3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.java",
+          "sha": "fe76d0b5f941d15b94a924eb5f244331749ec397",
+          "lastSyncedAt": "2026-09-11T15:25:17.760Z"
+        }
+      ]
+    }
+  ]
+}
