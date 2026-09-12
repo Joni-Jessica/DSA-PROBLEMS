@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-11T15:25:17.760Z",
+  "updatedAt": "2026-09-12T10:39:01.852Z",
   "problems": [
     {
       "frontendId": "4",
@@ -243,6 +243,26 @@
           "path": "LeetCode/2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.java",
           "sha": "19a7daa84618a939cf14b757397b7ed4ee7ffc9f",
           "lastSyncedAt": "2026-09-04T12:25:41.600Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3414",
+      "title": "Maximum Score of Non-overlapping Intervals",
+      "slug": "maximum-score-of-non-overlapping-intervals",
+      "problemName": "3414-maximum-score-of-non-overlapping-intervals",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/",
+      "folderPath": "LeetCode/3414-maximum-score-of-non-overlapping-intervals/",
+      "readmePath": "LeetCode/3414-maximum-score-of-non-overlapping-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3414-maximum-score-of-non-overlapping-intervals.java",
+          "path": "LeetCode/3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.java",
+          "sha": "dfbe4d0a56755032ab77db3f57606aadab8fcf62",
+          "lastSyncedAt": "2026-09-12T10:39:01.852Z"
         }
       ]
     },
