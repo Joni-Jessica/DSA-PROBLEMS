@@ -4,8 +4,28 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-04T12:25:14.019Z",
+  "updatedAt": "2026-09-13T02:12:43.257Z",
   "problems": [
+    {
+      "frontendId": "835",
+      "title": "Image Overlap",
+      "slug": "image-overlap",
+      "problemName": "0835-image-overlap",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/image-overlap/",
+      "folderPath": "LeetCode/0835-image-overlap/",
+      "readmePath": "LeetCode/0835-image-overlap/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0835-image-overlap.java",
+          "path": "LeetCode/0835-image-overlap/0835-image-overlap.java",
+          "sha": "305ca00a5965b3ec55df335c4f6c7beee436c77a",
+          "lastSyncedAt": "2026-09-13T02:12:43.257Z"
+        }
+      ]
+    },
     {
       "frontendId": "1672",
       "title": "Richest Customer Wealth",
