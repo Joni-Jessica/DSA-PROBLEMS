@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 25 | 12 | 9 | 4 |
+| 28 | 13 | 10 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 7 days | 13 |
+| 5 days | 7 days | 16 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-22 | 4 |
-| 2026-08-24 | 3 |
 | 2026-08-31 | 3 |
 | 2026-09-01 | 3 |
 | 2026-09-02 | 1 |
@@ -28,27 +26,30 @@ Contains topicwise list of solved problems.
 | 2026-09-09 | 1 |
 | 2026-09-11 | 1 |
 | 2026-09-12 | 1 |
+| 2026-09-13 | 1 |
+| 2026-09-14 | 1 |
+| 2026-09-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 48% |
-| Math | 11 | 44% |
-| Dynamic Programming | 4 | 16% |
-| Hash Table | 4 | 16% |
-| Game Theory | 3 | 12% |
-| String | 3 | 12% |
-| Binary Search | 2 | 8% |
-| Brainteaser | 2 | 8% |
-| Greedy | 2 | 8% |
-| Impartial Game | 2 | 8% |
+| Array | 13 | 46% |
+| Math | 12 | 43% |
+| Dynamic Programming | 5 | 18% |
+| Hash Table | 4 | 14% |
+| String | 4 | 14% |
+| Game Theory | 3 | 11% |
+| Greedy | 3 | 11% |
+| Matrix | 3 | 11% |
+| Two Pointers | 3 | 11% |
+| Binary Search | 2 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 20 |
+| [Array](Topics/array/) | 21 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Brainteaser](Topics/brainteaser/) | 2 |
@@ -59,16 +60,17 @@ Contains topicwise list of solved problems.
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 3 |
-| [Greedy](Topics/greedy/) | 3 |
+| [Geometry](Topics/geometry/) | 1 |
+| [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 11 |
-| [Matrix](Topics/matrix/) | 2 |
+| [Math](Topics/math/) | 12 |
+| [Matrix](Topics/matrix/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
@@ -81,7 +83,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 6 |
+| [String](Topics/string/) | 7 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 8 |
+| [Two Pointers](Topics/two-pointers/) | 9 |
 <!---LeetHub Summary End-->
