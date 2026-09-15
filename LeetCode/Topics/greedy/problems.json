@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-04T12:26:22.694Z",
+  "updatedAt": "2026-09-15T17:46:03.012Z",
   "problems": [
     {
       "frontendId": "11",
@@ -63,6 +63,26 @@
           "path": "LeetCode/2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.java",
           "sha": "19a7daa84618a939cf14b757397b7ed4ee7ffc9f",
           "lastSyncedAt": "2026-09-04T12:25:41.600Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2472",
+      "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+      "slug": "maximum-number-of-non-overlapping-palindrome-substrings",
+      "problemName": "2472-maximum-number-of-non-overlapping-palindrome-substrings",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/",
+      "folderPath": "LeetCode/2472-maximum-number-of-non-overlapping-palindrome-substrings/",
+      "readmePath": "LeetCode/2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
+          "path": "LeetCode/2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
+          "sha": "c2d1247ca47246d03bbbdbd93cb697b0226c906d",
+          "lastSyncedAt": "2026-09-15T17:46:03.012Z"
         }
       ]
     }
