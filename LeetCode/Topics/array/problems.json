@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-17T09:41:47.788Z",
+  "updatedAt": "2026-09-17T12:04:51.993Z",
   "problems": [
     {
       "frontendId": "4",
@@ -283,6 +283,26 @@
           "path": "LeetCode/2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.java",
           "sha": "19a7daa84618a939cf14b757397b7ed4ee7ffc9f",
           "lastSyncedAt": "2026-09-04T12:25:41.600Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3069",
+      "title": "Distribute Elements Into Two Arrays I",
+      "slug": "distribute-elements-into-two-arrays-i",
+      "problemName": "3069-distribute-elements-into-two-arrays-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/",
+      "folderPath": "LeetCode/3069-distribute-elements-into-two-arrays-i/",
+      "readmePath": "LeetCode/3069-distribute-elements-into-two-arrays-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3069-distribute-elements-into-two-arrays-i.java",
+          "path": "LeetCode/3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.java",
+          "sha": "c89ad7f237b71e607a12eccc9970caeb55c6853c",
+          "lastSyncedAt": "2026-09-17T12:04:51.993Z"
         }
       ]
     },
