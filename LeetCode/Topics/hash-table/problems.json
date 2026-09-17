@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-17T09:41:45.941Z",
+  "updatedAt": "2026-09-17T09:41:47.788Z",
   "problems": [
     {
       "frontendId": "3",
@@ -62,7 +62,7 @@
           "filename": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java",
           "path": "LeetCode/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java",
           "sha": "c1345e047647dc22b6621f38a611ce83c2f6da0e",
-          "lastSyncedAt": "2026-09-17T09:41:45.941Z"
+          "lastSyncedAt": "2026-09-17T09:41:47.788Z"
         }
       ]
     },
