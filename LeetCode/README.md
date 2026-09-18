@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 14 | 12 | 5 |
+| 32 | 14 | 12 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 7 days | 18 |
+| 8 days | 8 days | 19 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-02 | 1 |
 | 2026-09-03 | 1 |
 | 2026-09-04 | 4 |
 | 2026-09-05 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-15 | 1 |
 | 2026-09-16 | 1 |
 | 2026-09-17 | 2 |
+| 2026-09-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 15 | 48% |
-| Math | 13 | 42% |
-| Dynamic Programming | 7 | 23% |
-| Hash Table | 5 | 16% |
-| String | 4 | 13% |
-| Binary Search | 3 | 10% |
-| Game Theory | 3 | 10% |
-| Greedy | 3 | 10% |
-| Matrix | 3 | 10% |
-| Prefix Sum | 3 | 10% |
+| Array | 15 | 47% |
+| Math | 13 | 41% |
+| Dynamic Programming | 7 | 22% |
+| Hash Table | 6 | 19% |
+| String | 5 | 16% |
+| Greedy | 4 | 13% |
+| Binary Search | 3 | 9% |
+| Game Theory | 3 | 9% |
+| Matrix | 3 | 9% |
+| Prefix Sum | 3 | 9% |
 
 ## Topics
 
@@ -66,8 +66,8 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Geometry](Topics/geometry/) | 1 |
-| [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Greedy](Topics/greedy/) | 5 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
@@ -83,9 +83,9 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
-| [Sorting](Topics/sorting/) | 5 |
+| [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 7 |
+| [String](Topics/string/) | 8 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
 <!---LeetHub Summary End-->
