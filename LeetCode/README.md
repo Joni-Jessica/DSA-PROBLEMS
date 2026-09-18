@@ -51,6 +51,7 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [Array](Topics/array/) | 23 |
 | [Binary Search](Topics/binary-search/) | 4 |
+| [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Brainteaser](Topics/brainteaser/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
