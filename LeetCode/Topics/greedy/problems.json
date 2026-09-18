@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-15T17:46:03.012Z",
+  "updatedAt": "2026-09-18T18:08:45.376Z",
   "problems": [
     {
       "frontendId": "11",
@@ -43,6 +43,26 @@
           "path": "LeetCode/0680-valid-palindrome-ii/0680-valid-palindrome-ii.java",
           "sha": "f462ed8ba7041d6980f01ca1ca36d3317030efce",
           "lastSyncedAt": "2026-08-31T20:05:56.093Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1520",
+      "title": "Maximum Number of Non-Overlapping Substrings",
+      "slug": "maximum-number-of-non-overlapping-substrings",
+      "problemName": "1520-maximum-number-of-non-overlapping-substrings",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/",
+      "folderPath": "LeetCode/1520-maximum-number-of-non-overlapping-substrings/",
+      "readmePath": "LeetCode/1520-maximum-number-of-non-overlapping-substrings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1520-maximum-number-of-non-overlapping-substrings.java",
+          "path": "LeetCode/1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.java",
+          "sha": "30f4bfeccf39a09ff3dfbab38a6da231ce446a28",
+          "lastSyncedAt": "2026-09-18T18:08:45.376Z"
         }
       ]
     },
