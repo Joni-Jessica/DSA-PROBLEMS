@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 32 | 14 | 12 | 6 |
+| 33 | 14 | 13 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 8 days | 19 |
+| 9 days | 9 days | 20 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-03 | 1 |
 | 2026-09-04 | 4 |
 | 2026-09-05 | 1 |
 | 2026-09-06 | 1 |
@@ -29,17 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-09-16 | 1 |
 | 2026-09-17 | 2 |
 | 2026-09-18 | 1 |
+| 2026-09-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 15 | 47% |
-| Math | 13 | 41% |
-| Dynamic Programming | 7 | 22% |
-| Hash Table | 6 | 19% |
-| String | 5 | 16% |
-| Greedy | 4 | 13% |
+| Array | 15 | 45% |
+| Math | 14 | 42% |
+| Dynamic Programming | 7 | 21% |
+| Hash Table | 6 | 18% |
+| String | 5 | 15% |
+| Greedy | 4 | 12% |
 | Binary Search | 3 | 9% |
 | Game Theory | 3 | 9% |
 | Matrix | 3 | 9% |
@@ -65,13 +65,13 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 9 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 3 |
-| [Geometry](Topics/geometry/) | 1 |
+| [Geometry](Topics/geometry/) | 2 |
 | [Greedy](Topics/greedy/) | 5 |
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 13 |
+| [Math](Topics/math/) | 14 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
