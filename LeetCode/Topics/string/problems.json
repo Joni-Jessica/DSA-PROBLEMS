@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-18T18:53:38.572Z",
+  "updatedAt": "2026-09-20T18:12:41.516Z",
   "problems": [
     {
       "frontendId": "3",
@@ -163,6 +163,26 @@
           "path": "LeetCode/3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.java",
           "sha": "43c393894bbf39ea1914e18f9900bd7789fb6d04",
           "lastSyncedAt": "2026-09-04T12:25:35.256Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3498",
+      "title": "Reverse Degree of a String",
+      "slug": "reverse-degree-of-a-string",
+      "problemName": "3498-reverse-degree-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-degree-of-a-string/",
+      "folderPath": "LeetCode/3498-reverse-degree-of-a-string/",
+      "readmePath": "LeetCode/3498-reverse-degree-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3498-reverse-degree-of-a-string.java",
+          "path": "LeetCode/3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.java",
+          "sha": "4f0bebad6bf3d93258089f20a57840e2eddb41e7",
+          "lastSyncedAt": "2026-09-20T18:12:41.516Z"
         }
       ]
     }
