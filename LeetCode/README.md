@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 33 | 14 | 13 | 6 |
+| 34 | 15 | 13 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 9 days | 9 days | 20 |
+| 10 days | 10 days | 21 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-04 | 4 |
 | 2026-09-05 | 1 |
 | 2026-09-06 | 1 |
 | 2026-09-08 | 1 |
@@ -29,16 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-09-17 | 2 |
 | 2026-09-18 | 1 |
 | 2026-09-19 | 1 |
+| 2026-09-20 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 15 | 45% |
-| Math | 14 | 42% |
+| Array | 15 | 44% |
+| Math | 14 | 41% |
 | Dynamic Programming | 7 | 21% |
 | Hash Table | 6 | 18% |
-| String | 5 | 15% |
+| String | 6 | 18% |
 | Greedy | 4 | 12% |
 | Binary Search | 3 | 9% |
 | Game Theory | 3 | 9% |
@@ -81,11 +81,11 @@ Contains topicwise list of solved problems.
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
-| [Simulation](Topics/simulation/) | 2 |
+| [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 8 |
+| [String](Topics/string/) | 9 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
 <!---LeetHub Summary End-->
