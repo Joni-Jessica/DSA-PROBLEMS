@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-17T12:04:51.993Z",
+  "updatedAt": "2026-09-20T18:12:41.516Z",
   "problems": [
     {
       "frontendId": "3069",
@@ -43,6 +43,26 @@
           "path": "LeetCode/3222-find-the-winning-player-in-coin-game/3222-find-the-winning-player-in-coin-game.java",
           "sha": "e2d1ddaacf4fbc5cbccb3ba8337a23e667791393",
           "lastSyncedAt": "2026-09-04T12:25:55.323Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3498",
+      "title": "Reverse Degree of a String",
+      "slug": "reverse-degree-of-a-string",
+      "problemName": "3498-reverse-degree-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-degree-of-a-string/",
+      "folderPath": "LeetCode/3498-reverse-degree-of-a-string/",
+      "readmePath": "LeetCode/3498-reverse-degree-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3498-reverse-degree-of-a-string.java",
+          "path": "LeetCode/3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.java",
+          "sha": "4f0bebad6bf3d93258089f20a57840e2eddb41e7",
+          "lastSyncedAt": "2026-09-20T18:12:41.516Z"
         }
       ]
     }
