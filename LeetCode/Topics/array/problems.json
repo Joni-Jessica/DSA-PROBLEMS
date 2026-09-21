@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-18T08:48:14.149Z",
+  "updatedAt": "2026-09-21T15:28:44.758Z",
   "problems": [
     {
       "frontendId": "4",
@@ -343,6 +343,26 @@
           "path": "LeetCode/3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.java",
           "sha": "fe76d0b5f941d15b94a924eb5f244331749ec397",
           "lastSyncedAt": "2026-09-18T08:48:14.149Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3524",
+      "title": "Find X Value of Array I",
+      "slug": "find-x-value-of-array-i",
+      "problemName": "3524-find-x-value-of-array-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-value-of-array-i/",
+      "folderPath": "LeetCode/3524-find-x-value-of-array-i/",
+      "readmePath": "LeetCode/3524-find-x-value-of-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3524-find-x-value-of-array-i.java",
+          "path": "LeetCode/3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.java",
+          "sha": "2b0e7b71909558e9d0d2b191b447f77a2d711a4c",
+          "lastSyncedAt": "2026-09-21T15:28:44.758Z"
         }
       ]
     },
