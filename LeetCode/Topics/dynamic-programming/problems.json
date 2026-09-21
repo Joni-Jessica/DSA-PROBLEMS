@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-17T09:41:45.941Z",
+  "updatedAt": "2026-09-21T15:28:44.758Z",
   "problems": [
     {
       "frontendId": "42",
@@ -183,6 +183,26 @@
           "path": "LeetCode/3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.java",
           "sha": "dfbe4d0a56755032ab77db3f57606aadab8fcf62",
           "lastSyncedAt": "2026-09-12T10:39:01.852Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3524",
+      "title": "Find X Value of Array I",
+      "slug": "find-x-value-of-array-i",
+      "problemName": "3524-find-x-value-of-array-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-value-of-array-i/",
+      "folderPath": "LeetCode/3524-find-x-value-of-array-i/",
+      "readmePath": "LeetCode/3524-find-x-value-of-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3524-find-x-value-of-array-i.java",
+          "path": "LeetCode/3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.java",
+          "sha": "2b0e7b71909558e9d0d2b191b447f77a2d711a4c",
+          "lastSyncedAt": "2026-09-21T15:28:44.758Z"
         }
       ]
     }
