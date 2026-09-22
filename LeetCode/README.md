@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 35 | 15 | 14 | 6 |
+| 36 | 15 | 14 | 7 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 11 days | 11 days | 22 |
+| 12 days | 12 days | 23 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-06 | 1 |
 | 2026-09-08 | 1 |
 | 2026-09-09 | 1 |
 | 2026-09-11 | 1 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-09-19 | 1 |
 | 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
+| 2026-09-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 46% |
-| Math | 15 | 43% |
-| Dynamic Programming | 8 | 23% |
+| Array | 17 | 47% |
+| Math | 16 | 44% |
+| Dynamic Programming | 8 | 22% |
 | Hash Table | 6 | 17% |
 | String | 6 | 17% |
 | Greedy | 4 | 11% |
-| Binary Search | 3 | 9% |
-| Game Theory | 3 | 9% |
-| Matrix | 3 | 9% |
-| Prefix Sum | 3 | 9% |
+| Binary Search | 3 | 8% |
+| Game Theory | 3 | 8% |
+| Matrix | 3 | 8% |
+| Prefix Sum | 3 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 24 |
+| [Array](Topics/array/) | 25 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -71,7 +71,7 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 15 |
+| [Math](Topics/math/) | 16 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
@@ -81,6 +81,7 @@ Contains topicwise list of solved problems.
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
+| [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 6 |
