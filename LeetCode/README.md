@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 36 | 15 | 14 | 7 |
+| 37 | 15 | 15 | 7 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 12 days | 12 days | 23 |
+| 13 days | 13 days | 24 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-08 | 1 |
 | 2026-09-09 | 1 |
 | 2026-09-11 | 1 |
 | 2026-09-12 | 1 |
@@ -29,28 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
 | 2026-09-22 | 1 |
+| 2026-09-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 47% |
-| Math | 16 | 44% |
+| Array | 18 | 49% |
+| Math | 16 | 43% |
 | Dynamic Programming | 8 | 22% |
-| Hash Table | 6 | 17% |
-| String | 6 | 17% |
+| Hash Table | 7 | 19% |
+| String | 6 | 16% |
+| Binary Search | 4 | 11% |
 | Greedy | 4 | 11% |
-| Binary Search | 3 | 8% |
+| Prefix Sum | 4 | 11% |
+| Sliding Window | 4 | 11% |
 | Game Theory | 3 | 8% |
-| Matrix | 3 | 8% |
-| Prefix Sum | 3 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 25 |
-| [Binary Search](Topics/binary-search/) | 4 |
+| [Array](Topics/array/) | 26 |
+| [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Brainteaser](Topics/brainteaser/) | 2 |
@@ -67,7 +67,7 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Greedy](Topics/greedy/) | 5 |
-| [Hash Table](Topics/hash-table/) | 7 |
+| [Hash Table](Topics/hash-table/) | 8 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
@@ -77,13 +77,13 @@ Contains topicwise list of solved problems.
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Nim Game](Topics/nim-game/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 4 |
+| [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
-| [Sliding Window](Topics/sliding-window/) | 3 |
+| [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 9 |
