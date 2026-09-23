@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-22T16:48:01.550Z",
+  "updatedAt": "2026-09-23T14:06:04.776Z",
   "problems": [
     {
       "frontendId": "4",
@@ -243,6 +243,26 @@
           "path": "LeetCode/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java",
           "sha": "c1345e047647dc22b6621f38a611ce83c2f6da0e",
           "lastSyncedAt": "2026-09-17T09:41:47.788Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1658",
+      "title": "Minimum Operations to Reduce X to Zero",
+      "slug": "minimum-operations-to-reduce-x-to-zero",
+      "problemName": "1658-minimum-operations-to-reduce-x-to-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
+      "folderPath": "LeetCode/1658-minimum-operations-to-reduce-x-to-zero/",
+      "readmePath": "LeetCode/1658-minimum-operations-to-reduce-x-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1658-minimum-operations-to-reduce-x-to-zero.java",
+          "path": "LeetCode/1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.java",
+          "sha": "d1bafcfc47643eca9413b2f08206fe5491eb57f7",
+          "lastSyncedAt": "2026-09-23T14:06:04.776Z"
         }
       ]
     },
