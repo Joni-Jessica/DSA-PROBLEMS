@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-18T18:53:38.572Z",
+  "updatedAt": "2026-09-23T14:06:04.776Z",
   "problems": [
     {
       "frontendId": "3",
@@ -83,6 +83,26 @@
           "path": "LeetCode/1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.java",
           "sha": "30f4bfeccf39a09ff3dfbab38a6da231ce446a28",
           "lastSyncedAt": "2026-09-18T18:53:38.572Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1658",
+      "title": "Minimum Operations to Reduce X to Zero",
+      "slug": "minimum-operations-to-reduce-x-to-zero",
+      "problemName": "1658-minimum-operations-to-reduce-x-to-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
+      "folderPath": "LeetCode/1658-minimum-operations-to-reduce-x-to-zero/",
+      "readmePath": "LeetCode/1658-minimum-operations-to-reduce-x-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1658-minimum-operations-to-reduce-x-to-zero.java",
+          "path": "LeetCode/1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.java",
+          "sha": "d1bafcfc47643eca9413b2f08206fe5491eb57f7",
+          "lastSyncedAt": "2026-09-23T14:06:04.776Z"
         }
       ]
     },
