@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-20T18:12:41.516Z",
+  "updatedAt": "2026-09-25T18:05:00.251Z",
   "problems": [
     {
       "frontendId": "3",
@@ -103,6 +103,26 @@
           "path": "LeetCode/0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.java",
           "sha": "5179c92c72de8648e1a2b99b6454a8dd9d055d7c",
           "lastSyncedAt": "2026-09-07T16:48:12.243Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1096",
+      "title": "Brace Expansion II",
+      "slug": "brace-expansion-ii",
+      "problemName": "1096-brace-expansion-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+      "folderPath": "LeetCode/1096-brace-expansion-ii/",
+      "readmePath": "LeetCode/1096-brace-expansion-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1096-brace-expansion-ii.java",
+          "path": "LeetCode/1096-brace-expansion-ii/1096-brace-expansion-ii.java",
+          "sha": "27c5d382d36cf5a3363b87188dca7860b3bc3b64",
+          "lastSyncedAt": "2026-09-25T18:05:00.251Z"
         }
       ]
     },
