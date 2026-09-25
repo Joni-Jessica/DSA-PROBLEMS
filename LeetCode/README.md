@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 38 | 16 | 15 | 7 |
+| 39 | 16 | 15 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 14 days | 14 days | 25 |
+| 15 days | 15 days | 26 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-11 | 1 |
 | 2026-09-12 | 1 |
 | 2026-09-13 | 1 |
 | 2026-09-14 | 1 |
@@ -29,20 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-09-22 | 1 |
 | 2026-09-23 | 1 |
 | 2026-09-24 | 1 |
+| 2026-09-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 50% |
-| Math | 17 | 45% |
+| Array | 19 | 49% |
+| Math | 17 | 44% |
 | Dynamic Programming | 8 | 21% |
-| Hash Table | 7 | 18% |
-| String | 6 | 16% |
-| Binary Search | 4 | 11% |
-| Greedy | 4 | 11% |
-| Prefix Sum | 4 | 11% |
-| Sliding Window | 4 | 11% |
+| Hash Table | 8 | 21% |
+| String | 7 | 18% |
+| Binary Search | 4 | 10% |
+| Greedy | 4 | 10% |
+| Prefix Sum | 4 | 10% |
+| Sliding Window | 4 | 10% |
 | Game Theory | 3 | 8% |
 
 ## Topics
@@ -50,11 +50,12 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 27 |
+| [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Brainteaser](Topics/brainteaser/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
@@ -67,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Greedy](Topics/greedy/) | 5 |
-| [Hash Table](Topics/hash-table/) | 8 |
+| [Hash Table](Topics/hash-table/) | 9 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
@@ -84,9 +85,9 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 4 |
-| [Sorting](Topics/sorting/) | 6 |
-| [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 9 |
+| [Sorting](Topics/sorting/) | 7 |
+| [Stack](Topics/stack/) | 2 |
+| [String](Topics/string/) | 10 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
 <!---LeetHub Summary End-->
