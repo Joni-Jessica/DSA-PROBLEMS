@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 39 | 16 | 15 | 8 |
+| 40 | 16 | 16 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 15 days | 15 days | 26 |
+| 16 days | 16 days | 27 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-12 | 1 |
 | 2026-09-13 | 1 |
 | 2026-09-14 | 1 |
 | 2026-09-15 | 1 |
@@ -29,16 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-09-23 | 1 |
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
+| 2026-09-26 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 49% |
-| Math | 17 | 44% |
-| Dynamic Programming | 8 | 21% |
-| Hash Table | 8 | 21% |
-| String | 7 | 18% |
+| Array | 20 | 50% |
+| Math | 17 | 43% |
+| Hash Table | 9 | 23% |
+| Dynamic Programming | 8 | 20% |
+| String | 8 | 20% |
 | Binary Search | 4 | 10% |
 | Greedy | 4 | 10% |
 | Prefix Sum | 4 | 10% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 27 |
+| [Array](Topics/array/) | 28 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Greedy](Topics/greedy/) | 5 |
-| [Hash Table](Topics/hash-table/) | 9 |
+| [Hash Table](Topics/hash-table/) | 10 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
@@ -87,7 +87,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 7 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 10 |
+| [String](Topics/string/) | 11 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
 <!---LeetHub Summary End-->
