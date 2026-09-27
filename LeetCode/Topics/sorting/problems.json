@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-25T18:05:00.251Z",
+  "updatedAt": "2026-09-27T11:30:03.557Z",
   "problems": [
     {
       "frontendId": "15",
@@ -102,7 +102,7 @@
           "filename": "1096-brace-expansion-ii.java",
           "path": "LeetCode/1096-brace-expansion-ii/1096-brace-expansion-ii.java",
           "sha": "27c5d382d36cf5a3363b87188dca7860b3bc3b64",
-          "lastSyncedAt": "2026-09-25T18:05:00.251Z"
+          "lastSyncedAt": "2026-09-27T11:30:03.557Z"
         }
       ]
     },
