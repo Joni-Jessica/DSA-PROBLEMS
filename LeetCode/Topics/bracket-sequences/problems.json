@@ -4,7 +4,7 @@
     "slug": "bracket-sequences",
     "name": "Bracket Sequences"
   },
-  "updatedAt": "2026-09-27T10:08:17.214Z",
+  "updatedAt": "2026-09-28T17:03:12.270Z",
   "problems": [
     {
       "frontendId": "1190",
@@ -23,6 +23,26 @@
           "path": "LeetCode/1190-reverse-substrings-between-each-pair-of-parentheses/1190-reverse-substrings-between-each-pair-of-parentheses.java",
           "sha": "c2d502e32a1f7b0aeaf44a0d6e55701571b95b1a",
           "lastSyncedAt": "2026-09-27T10:08:17.214Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1614",
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "slug": "maximum-nesting-depth-of-the-parentheses",
+      "problemName": "1614-maximum-nesting-depth-of-the-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+      "folderPath": "LeetCode/1614-maximum-nesting-depth-of-the-parentheses/",
+      "readmePath": "LeetCode/1614-maximum-nesting-depth-of-the-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1614-maximum-nesting-depth-of-the-parentheses.java",
+          "path": "LeetCode/1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.java",
+          "sha": "09e37f0da5ac52bbb42475b54b44fa6640443a1e",
+          "lastSyncedAt": "2026-09-28T17:03:12.270Z"
         }
       ]
     }
