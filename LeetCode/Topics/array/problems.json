@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T11:16:33.216Z",
+  "updatedAt": "2026-09-29T11:20:05.581Z",
   "problems": [
     {
       "frontendId": "4",
@@ -342,7 +342,7 @@
           "filename": "2267-check-if-there-is-a-valid-parentheses-string-path.java",
           "path": "LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.java",
           "sha": "50784022563906542683194868f4945455249fd4",
-          "lastSyncedAt": "2026-09-29T11:16:33.216Z"
+          "lastSyncedAt": "2026-09-29T11:20:05.581Z"
         }
       ]
     },
