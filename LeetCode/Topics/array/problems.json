@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T13:21:38.237Z",
+  "updatedAt": "2026-09-29T11:16:33.216Z",
   "problems": [
     {
       "frontendId": "4",
@@ -323,6 +323,26 @@
           "path": "LeetCode/2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.java",
           "sha": "19a7daa84618a939cf14b757397b7ed4ee7ffc9f",
           "lastSyncedAt": "2026-09-04T12:25:41.600Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2267",
+      "title": " Check if There Is a Valid Parentheses String Path",
+      "slug": "check-if-there-is-a-valid-parentheses-string-path",
+      "problemName": "2267-check-if-there-is-a-valid-parentheses-string-path",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/",
+      "folderPath": "LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path/",
+      "readmePath": "LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2267-check-if-there-is-a-valid-parentheses-string-path.java",
+          "path": "LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.java",
+          "sha": "50784022563906542683194868f4945455249fd4",
+          "lastSyncedAt": "2026-09-29T11:16:33.216Z"
         }
       ]
     },
