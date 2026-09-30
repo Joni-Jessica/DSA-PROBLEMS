@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T10:38:32.690Z",
+  "updatedAt": "2026-09-30T10:46:11.497Z",
   "problems": [
     {
       "frontendId": "1",
@@ -203,6 +203,26 @@
           "path": "LeetCode/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.java",
           "sha": "165f6f9fedbe8faecfff16f0ad7dbcef0c0a533d",
           "lastSyncedAt": "2026-08-31T20:05:50.920Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "LeetCode/0169-majority-element/",
+      "readmePath": "LeetCode/0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0169-majority-element.java",
+          "path": "LeetCode/0169-majority-element/0169-majority-element.java",
+          "sha": "387fc9bba2bb32ef7a52f72f63859b1f1fd74937",
+          "lastSyncedAt": "2026-09-30T10:46:11.497Z"
         }
       ]
     },
