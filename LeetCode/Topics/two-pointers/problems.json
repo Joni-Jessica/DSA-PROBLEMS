@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-15T17:46:03.012Z",
+  "updatedAt": "2026-09-30T11:21:47.260Z",
   "problems": [
     {
       "frontendId": "11",
@@ -143,6 +143,26 @@
           "path": "LeetCode/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.java",
           "sha": "165f6f9fedbe8faecfff16f0ad7dbcef0c0a533d",
           "lastSyncedAt": "2026-08-31T20:05:50.920Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "LeetCode/0283-move-zeroes/",
+      "readmePath": "LeetCode/0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0283-move-zeroes.java",
+          "path": "LeetCode/0283-move-zeroes/0283-move-zeroes.java",
+          "sha": "dcb712923d3caf12ac8fee293f7d9fd7ff3c5dfc",
+          "lastSyncedAt": "2026-09-30T11:21:47.260Z"
         }
       ]
     },
