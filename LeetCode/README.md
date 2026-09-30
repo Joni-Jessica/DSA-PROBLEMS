@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 43 | 17 | 17 | 9 |
+| 44 | 17 | 18 | 9 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 19 days | 19 days | 30 |
+| 20 days | 20 days | 31 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-16 | 1 |
 | 2026-09-17 | 2 |
 | 2026-09-18 | 1 |
 | 2026-09-19 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-27 | 1 |
 | 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
+| 2026-09-30 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 21 | 49% |
-| Math | 17 | 40% |
-| String | 10 | 23% |
-| Dynamic Programming | 9 | 21% |
-| Hash Table | 9 | 21% |
+| Array | 21 | 48% |
+| Math | 17 | 39% |
+| String | 11 | 25% |
+| Dynamic Programming | 9 | 20% |
+| Hash Table | 9 | 20% |
+| Stack | 5 | 11% |
 | Binary Search | 4 | 9% |
+| Bracket Sequences | 4 | 9% |
 | Greedy | 4 | 9% |
 | Matrix | 4 | 9% |
-| Prefix Sum | 4 | 9% |
-| Sliding Window | 4 | 9% |
 
 ## Topics
 
@@ -54,7 +54,7 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 3 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 4 |
 | [Brainteaser](Topics/brainteaser/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
@@ -87,8 +87,8 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 7 |
-| [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 13 |
+| [Stack](Topics/stack/) | 5 |
+| [String](Topics/string/) | 14 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
 <!---LeetHub Summary End-->
