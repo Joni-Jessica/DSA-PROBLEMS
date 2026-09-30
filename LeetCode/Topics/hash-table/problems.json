@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-30T10:53:38.074Z",
+  "updatedAt": "2026-09-30T10:55:11.975Z",
   "problems": [
     {
       "frontendId": "1",
@@ -62,7 +62,7 @@
           "filename": "0169-majority-element.java",
           "path": "LeetCode/0169-majority-element/0169-majority-element.java",
           "sha": "387fc9bba2bb32ef7a52f72f63859b1f1fd74937",
-          "lastSyncedAt": "2026-09-30T10:53:38.074Z"
+          "lastSyncedAt": "2026-09-30T10:55:11.975Z"
         }
       ]
     },
