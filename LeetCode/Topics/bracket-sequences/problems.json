@@ -4,8 +4,28 @@
     "slug": "bracket-sequences",
     "name": "Bracket Sequences"
   },
-  "updatedAt": "2026-09-29T11:20:05.581Z",
+  "updatedAt": "2026-09-30T09:44:40.291Z",
   "problems": [
+    {
+      "frontendId": "1111",
+      "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+      "slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+      "problemName": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/",
+      "folderPath": "LeetCode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/",
+      "readmePath": "LeetCode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings.java",
+          "path": "LeetCode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.java",
+          "sha": "6e73864af6ea675e3bab72a3c555f145bb4fc7fc",
+          "lastSyncedAt": "2026-09-30T09:44:40.291Z"
+        }
+      ]
+    },
     {
       "frontendId": "1190",
       "title": "Reverse Substrings Between Each Pair of Parentheses",
