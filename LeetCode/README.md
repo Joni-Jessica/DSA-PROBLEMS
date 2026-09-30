@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 46 | 19 | 18 | 9 |
+| 47 | 20 | 18 | 9 |
 
 ## Activity
 
@@ -28,17 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-09-27 | 1 |
 | 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
-| 2026-09-30 | 3 |
+| 2026-09-30 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 50% |
-| Math | 17 | 37% |
-| String | 11 | 24% |
-| Dynamic Programming | 10 | 22% |
-| Hash Table | 10 | 22% |
+| Array | 24 | 51% |
+| Math | 17 | 36% |
+| Hash Table | 11 | 23% |
+| String | 11 | 23% |
+| Dynamic Programming | 10 | 21% |
 | Stack | 5 | 11% |
 | Binary Search | 4 | 9% |
 | Bracket Sequences | 4 | 9% |
@@ -49,27 +49,28 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 31 |
+| [Array](Topics/array/) | 32 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 4 |
 | [Brainteaser](Topics/brainteaser/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
-| [Counting](Topics/counting/) | 1 |
+| [Counting](Topics/counting/) | 2 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 12 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Greedy](Topics/greedy/) | 5 |
-| [Hash Table](Topics/hash-table/) | 11 |
+| [Hash Table](Topics/hash-table/) | 12 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
@@ -86,7 +87,7 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 4 |
-| [Sorting](Topics/sorting/) | 7 |
+| [Sorting](Topics/sorting/) | 8 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 14 |
 | [Tree](Topics/tree/) | 1 |
