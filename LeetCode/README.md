@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 50 | 23 | 18 | 9 |
+| 51 | 23 | 19 | 9 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 21 days | 21 days | 32 |
+| 22 days | 22 days | 33 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-18 | 1 |
 | 2026-09-19 | 1 |
 | 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
@@ -29,18 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-09-29 | 1 |
 | 2026-09-30 | 5 |
 | 2026-10-01 | 2 |
+| 2026-10-02 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 52% |
-| Math | 17 | 34% |
-| String | 12 | 24% |
+| Array | 26 | 51% |
+| Math | 17 | 33% |
+| String | 13 | 25% |
+| Dynamic Programming | 11 | 22% |
 | Hash Table | 11 | 22% |
-| Dynamic Programming | 10 | 20% |
+| Bracket Sequences | 6 | 12% |
 | Stack | 6 | 12% |
-| Bracket Sequences | 5 | 10% |
 | Two Pointers | 5 | 10% |
 | Binary Search | 4 | 8% |
 | Greedy | 4 | 8% |
@@ -50,12 +50,12 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 34 |
-| [Backtracking](Topics/backtracking/) | 1 |
+| [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 5 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 6 |
 | [Brainteaser](Topics/brainteaser/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
@@ -65,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 12 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 13 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Geometry](Topics/geometry/) | 2 |
@@ -89,7 +89,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 8 |
 | [Stack](Topics/stack/) | 6 |
-| [String](Topics/string/) | 15 |
+| [String](Topics/string/) | 16 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 11 |
 <!---LeetHub Summary End-->
