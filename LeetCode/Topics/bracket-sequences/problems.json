@@ -4,7 +4,7 @@
     "slug": "bracket-sequences",
     "name": "Bracket Sequences"
   },
-  "updatedAt": "2026-10-01T02:14:20.294Z",
+  "updatedAt": "2026-10-02T16:59:59.640Z",
   "problems": [
     {
       "frontendId": "20",
@@ -23,6 +23,26 @@
           "path": "LeetCode/0020-valid-parentheses/0020-valid-parentheses.java",
           "sha": "41fd1d5ea1a0fd5a5ac31c1d3daf338dea0f8147",
           "lastSyncedAt": "2026-10-01T02:14:20.294Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "problemName": "0022-generate-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "folderPath": "LeetCode/0022-generate-parentheses/",
+      "readmePath": "LeetCode/0022-generate-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0022-generate-parentheses.java",
+          "path": "LeetCode/0022-generate-parentheses/0022-generate-parentheses.java",
+          "sha": "8e0a4e475f5df45c3472710e7a56fd56c337b5f4",
+          "lastSyncedAt": "2026-10-02T16:59:59.640Z"
         }
       ]
     },
