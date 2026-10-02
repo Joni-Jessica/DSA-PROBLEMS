@@ -4,8 +4,28 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-30T10:38:32.690Z",
+  "updatedAt": "2026-10-02T16:59:59.640Z",
   "problems": [
+    {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "problemName": "0022-generate-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "folderPath": "LeetCode/0022-generate-parentheses/",
+      "readmePath": "LeetCode/0022-generate-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0022-generate-parentheses.java",
+          "path": "LeetCode/0022-generate-parentheses/0022-generate-parentheses.java",
+          "sha": "8e0a4e475f5df45c3472710e7a56fd56c337b5f4",
+          "lastSyncedAt": "2026-10-02T16:59:59.640Z"
+        }
+      ]
+    },
     {
       "frontendId": "42",
       "title": "Trapping Rain Water",
