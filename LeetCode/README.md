@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 51 | 23 | 19 | 9 |
+| 53 | 23 | 20 | 10 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 22 days | 22 days | 33 |
+| 24 days | 24 days | 35 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-19 | 1 |
-| 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
 | 2026-09-22 | 1 |
 | 2026-09-23 | 1 |
@@ -29,21 +27,23 @@ Contains topicwise list of solved problems.
 | 2026-09-30 | 5 |
 | 2026-10-01 | 2 |
 | 2026-10-02 | 1 |
+| 2026-10-03 | 1 |
+| 2026-10-04 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 51% |
-| Math | 17 | 33% |
-| String | 13 | 25% |
-| Dynamic Programming | 11 | 22% |
-| Hash Table | 11 | 22% |
-| Bracket Sequences | 6 | 12% |
-| Stack | 6 | 12% |
-| Two Pointers | 5 | 10% |
+| Array | 26 | 49% |
+| Math | 17 | 32% |
+| String | 15 | 28% |
+| Dynamic Programming | 13 | 25% |
+| Hash Table | 11 | 21% |
+| Bracket Sequences | 8 | 15% |
+| Stack | 8 | 15% |
+| Greedy | 5 | 9% |
+| Two Pointers | 5 | 9% |
 | Binary Search | 4 | 8% |
-| Greedy | 4 | 8% |
 
 ## Topics
 
@@ -55,7 +55,7 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 6 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 8 |
 | [Brainteaser](Topics/brainteaser/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
@@ -65,11 +65,11 @@ Contains topicwise list of solved problems.
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 13 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 15 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Geometry](Topics/geometry/) | 2 |
-| [Greedy](Topics/greedy/) | 5 |
+| [Greedy](Topics/greedy/) | 6 |
 | [Hash Table](Topics/hash-table/) | 12 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
@@ -88,8 +88,8 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 8 |
-| [Stack](Topics/stack/) | 6 |
-| [String](Topics/string/) | 16 |
+| [Stack](Topics/stack/) | 8 |
+| [String](Topics/string/) | 18 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 11 |
 <!---LeetHub Summary End-->
