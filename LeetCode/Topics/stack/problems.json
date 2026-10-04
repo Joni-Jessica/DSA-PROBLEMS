@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-10-03T15:58:15.135Z",
+  "updatedAt": "2026-10-04T16:05:50.282Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,6 +63,26 @@
           "path": "LeetCode/0042-trapping-rain-water/0042-trapping-rain-water.java",
           "sha": "a60a74f0151502c83347dcb252f2b76fba5838cc",
           "lastSyncedAt": "2026-09-04T12:26:12.078Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "problemName": "0678-valid-parenthesis-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "folderPath": "LeetCode/0678-valid-parenthesis-string/",
+      "readmePath": "LeetCode/0678-valid-parenthesis-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0678-valid-parenthesis-string.java",
+          "path": "LeetCode/0678-valid-parenthesis-string/0678-valid-parenthesis-string.java",
+          "sha": "33433326955948ec57925f1cf2384dce7cee9605",
+          "lastSyncedAt": "2026-10-04T16:05:50.282Z"
         }
       ]
     },
