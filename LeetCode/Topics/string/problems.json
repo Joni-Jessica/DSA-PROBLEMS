@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-04T16:05:50.282Z",
+  "updatedAt": "2026-10-05T21:49:25.484Z",
   "problems": [
     {
       "frontendId": "3",
@@ -163,6 +163,26 @@
           "path": "LeetCode/0680-valid-palindrome-ii/0680-valid-palindrome-ii.java",
           "sha": "f462ed8ba7041d6980f01ca1ca36d3317030efce",
           "lastSyncedAt": "2026-08-31T20:05:56.093Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "856",
+      "title": "Score of Parentheses",
+      "slug": "score-of-parentheses",
+      "problemName": "0856-score-of-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/score-of-parentheses/",
+      "folderPath": "LeetCode/0856-score-of-parentheses/",
+      "readmePath": "LeetCode/0856-score-of-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0856-score-of-parentheses.java",
+          "path": "LeetCode/0856-score-of-parentheses/0856-score-of-parentheses.java",
+          "sha": "b4b82edcfd1d8b7d73d006557a468d6ae7677619",
+          "lastSyncedAt": "2026-10-05T21:49:25.484Z"
         }
       ]
     },
