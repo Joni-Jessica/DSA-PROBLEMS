@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-05T21:49:25.484Z",
+  "updatedAt": "2026-10-06T17:23:16.180Z",
   "problems": [
     {
       "frontendId": "3",
@@ -183,6 +183,26 @@
           "path": "LeetCode/0856-score-of-parentheses/0856-score-of-parentheses.java",
           "sha": "b4b82edcfd1d8b7d73d006557a468d6ae7677619",
           "lastSyncedAt": "2026-10-05T21:49:25.484Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "921",
+      "title": "Minimum Add to Make Parentheses Valid",
+      "slug": "minimum-add-to-make-parentheses-valid",
+      "problemName": "0921-minimum-add-to-make-parentheses-valid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+      "folderPath": "LeetCode/0921-minimum-add-to-make-parentheses-valid/",
+      "readmePath": "LeetCode/0921-minimum-add-to-make-parentheses-valid/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0921-minimum-add-to-make-parentheses-valid.java",
+          "path": "LeetCode/0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.java",
+          "sha": "782c8e9444570312080addb8e1c8fa90381de1b4",
+          "lastSyncedAt": "2026-10-06T17:23:16.180Z"
         }
       ]
     },
