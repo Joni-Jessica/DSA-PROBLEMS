@@ -4,8 +4,28 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-27T11:30:03.557Z",
+  "updatedAt": "2026-10-07T15:27:19.497Z",
   "problems": [
+    {
+      "frontendId": "301",
+      "title": "Remove Invalid Parentheses",
+      "slug": "remove-invalid-parentheses",
+      "problemName": "0301-remove-invalid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-invalid-parentheses/",
+      "folderPath": "LeetCode/0301-remove-invalid-parentheses/",
+      "readmePath": "LeetCode/0301-remove-invalid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0301-remove-invalid-parentheses.java",
+          "path": "LeetCode/0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.java",
+          "sha": "5eb1dc4100a94b29cdb313d4222529735df178cb",
+          "lastSyncedAt": "2026-10-07T15:27:19.497Z"
+        }
+      ]
+    },
     {
       "frontendId": "1096",
       "title": "Brace Expansion II",
