@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-10-02T16:59:59.640Z",
+  "updatedAt": "2026-10-07T10:57:05.570Z",
   "problems": [
     {
       "frontendId": "22",
@@ -22,7 +22,7 @@
           "filename": "0022-generate-parentheses.java",
           "path": "LeetCode/0022-generate-parentheses/0022-generate-parentheses.java",
           "sha": "8e0a4e475f5df45c3472710e7a56fd56c337b5f4",
-          "lastSyncedAt": "2026-10-02T16:59:59.640Z"
+          "lastSyncedAt": "2026-10-07T10:57:05.570Z"
         }
       ]
     },
