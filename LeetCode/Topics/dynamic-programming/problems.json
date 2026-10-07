@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-07T10:57:05.570Z",
+  "updatedAt": "2026-10-07T13:13:45.319Z",
   "problems": [
     {
       "frontendId": "22",
@@ -42,7 +42,7 @@
           "filename": "0032-longest-valid-parentheses.java",
           "path": "LeetCode/0032-longest-valid-parentheses/0032-longest-valid-parentheses.java",
           "sha": "d5dd88e7680c47e311c401dc28b6b33e71100239",
-          "lastSyncedAt": "2026-10-03T15:58:15.135Z"
+          "lastSyncedAt": "2026-10-07T13:13:45.319Z"
         }
       ]
     },
