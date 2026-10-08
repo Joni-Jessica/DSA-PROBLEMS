@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-07T15:27:19.497Z",
+  "updatedAt": "2026-10-08T17:56:14.531Z",
   "problems": [
     {
       "frontendId": "3",
@@ -243,6 +243,26 @@
           "path": "LeetCode/0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.java",
           "sha": "5179c92c72de8648e1a2b99b6454a8dd9d055d7c",
           "lastSyncedAt": "2026-09-07T16:48:12.243Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1021",
+      "title": "Remove Outermost Parentheses",
+      "slug": "remove-outermost-parentheses",
+      "problemName": "1021-remove-outermost-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "folderPath": "LeetCode/1021-remove-outermost-parentheses/",
+      "readmePath": "LeetCode/1021-remove-outermost-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1021-remove-outermost-parentheses.java",
+          "path": "LeetCode/1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.java",
+          "sha": "f2029d5c0433f241bdaf1d26be4cf0d4a1832285",
+          "lastSyncedAt": "2026-10-08T17:56:14.531Z"
         }
       ]
     },
