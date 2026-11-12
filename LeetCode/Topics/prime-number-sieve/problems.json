@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prime-number-sieve",
+    "name": "Prime Number Sieve",
+    "tagId": "122049"
+  },
+  "updatedAt": "2026-11-12T07:27:09.484Z",
+  "problems": [
+    {
+      "frontendId": "204",
+      "title": "Count Primes",
+      "slug": "count-primes",
+      "problemName": "0204-count-primes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
+      "folderPath": "LeetCode/0204-count-primes/",
+      "readmePath": "LeetCode/0204-count-primes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0204-count-primes.java",
+          "path": "LeetCode/0204-count-primes/0204-count-primes.java",
+          "sha": "12c70305afb21e69dfe3e3c98734948fda152354",
+          "lastSyncedAt": "2026-11-12T07:27:09.484Z"
+        }
+      ]
+    }
+  ]
+}
