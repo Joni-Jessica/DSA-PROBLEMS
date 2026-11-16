@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-16T06:40:55.229Z",
+  "updatedAt": "2026-11-16T08:39:46.923Z",
   "problems": [
     {
       "frontendId": "7",
@@ -184,6 +184,26 @@
           "path": "LeetCode/1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.java",
           "sha": "03afa1252b99413045b919fd9df504eeed74606e",
           "lastSyncedAt": "2026-09-16T18:00:18.158Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1903",
+      "title": "Largest Odd Number in String",
+      "slug": "largest-odd-number-in-string",
+      "problemName": "1903-largest-odd-number-in-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-odd-number-in-string/",
+      "folderPath": "LeetCode/1903-largest-odd-number-in-string/",
+      "readmePath": "LeetCode/1903-largest-odd-number-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1903-largest-odd-number-in-string.java",
+          "path": "LeetCode/1903-largest-odd-number-in-string/1903-largest-odd-number-in-string.java",
+          "sha": "ae083f5b84f7d73c4842ca7603a120c200a70011",
+          "lastSyncedAt": "2026-11-16T08:39:46.923Z"
         }
       ]
     },
