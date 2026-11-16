@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T06:40:55.229Z",
+  "updatedAt": "2026-11-16T07:19:06.234Z",
   "problems": [
     {
       "frontendId": "1",
@@ -424,6 +424,26 @@
           "path": "LeetCode/1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.java",
           "sha": "4cbe7d71d6672372b55fc6a78fd9703c83dd3a61",
           "lastSyncedAt": "2026-09-26T13:21:38.237Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1838",
+      "title": "Frequency of the Most Frequent Element",
+      "slug": "frequency-of-the-most-frequent-element",
+      "problemName": "1838-frequency-of-the-most-frequent-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+      "folderPath": "LeetCode/1838-frequency-of-the-most-frequent-element/",
+      "readmePath": "LeetCode/1838-frequency-of-the-most-frequent-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1838-frequency-of-the-most-frequent-element.java",
+          "path": "LeetCode/1838-frequency-of-the-most-frequent-element/1838-frequency-of-the-most-frequent-element.java",
+          "sha": "1c5ce5dda1b19a58ff3e64bc230dc8cd544323ee",
+          "lastSyncedAt": "2026-11-16T07:19:06.234Z"
         }
       ]
     },
