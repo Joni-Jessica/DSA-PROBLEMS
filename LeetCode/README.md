@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 60 | 26 | 23 | 11 |
+| 61 | 27 | 23 | 11 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 24 days | 39 |
+| 1 days | 24 days | 40 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-25 | 1 |
 | 2026-09-26 | 1 |
 | 2026-09-27 | 1 |
 | 2026-09-28 | 1 |
@@ -29,15 +28,16 @@ Contains topicwise list of solved problems.
 | 2026-10-07 | 1 |
 | 2026-10-08 | 1 |
 | 2026-11-12 | 3 |
+| 2026-11-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 45% |
+| Array | 27 | 44% |
 | Math | 20 | 33% |
-| String | 19 | 32% |
-| Dynamic Programming | 13 | 22% |
+| String | 20 | 33% |
+| Dynamic Programming | 13 | 21% |
 | Bracket Sequences | 11 | 18% |
 | Hash Table | 11 | 18% |
 | Stack | 11 | 18% |
@@ -89,11 +89,11 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 1 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
-| [Simulation](Topics/simulation/) | 3 |
+| [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 8 |
 | [Stack](Topics/stack/) | 11 |
-| [String](Topics/string/) | 22 |
+| [String](Topics/string/) | 23 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 11 |
 <!---LeetHub Summary End-->
