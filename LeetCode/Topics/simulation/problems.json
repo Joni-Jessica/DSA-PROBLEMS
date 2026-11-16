@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "simulation",
-    "name": "Simulation"
+    "name": "Simulation",
+    "tagId": "61055"
   },
-  "updatedAt": "2026-09-20T18:12:41.516Z",
+  "updatedAt": "2026-11-16T06:31:39.077Z",
   "problems": [
+    {
+      "frontendId": "2243",
+      "title": "Calculate Digit Sum of a String",
+      "slug": "calculate-digit-sum-of-a-string",
+      "problemName": "2243-calculate-digit-sum-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+      "folderPath": "LeetCode/2243-calculate-digit-sum-of-a-string/",
+      "readmePath": "LeetCode/2243-calculate-digit-sum-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2243-calculate-digit-sum-of-a-string.java",
+          "path": "LeetCode/2243-calculate-digit-sum-of-a-string/2243-calculate-digit-sum-of-a-string.java",
+          "sha": "cf4076ad6438a1f85f5dd4dff99c4788e909e722",
+          "lastSyncedAt": "2026-11-16T06:31:39.077Z"
+        }
+      ]
+    },
     {
       "frontendId": "3069",
       "title": "Distribute Elements Into Two Arrays I",
