@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "greedy",
-    "name": "Greedy"
+    "name": "Greedy",
+    "tagId": "17"
   },
-  "updatedAt": "2026-10-06T17:23:16.180Z",
+  "updatedAt": "2026-11-16T07:19:06.234Z",
   "problems": [
     {
       "frontendId": "11",
@@ -103,6 +104,26 @@
           "path": "LeetCode/1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.java",
           "sha": "30f4bfeccf39a09ff3dfbab38a6da231ce446a28",
           "lastSyncedAt": "2026-09-18T18:53:38.572Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1838",
+      "title": "Frequency of the Most Frequent Element",
+      "slug": "frequency-of-the-most-frequent-element",
+      "problemName": "1838-frequency-of-the-most-frequent-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+      "folderPath": "LeetCode/1838-frequency-of-the-most-frequent-element/",
+      "readmePath": "LeetCode/1838-frequency-of-the-most-frequent-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1838-frequency-of-the-most-frequent-element.java",
+          "path": "LeetCode/1838-frequency-of-the-most-frequent-element/1838-frequency-of-the-most-frequent-element.java",
+          "sha": "1c5ce5dda1b19a58ff3e64bc230dc8cd544323ee",
+          "lastSyncedAt": "2026-11-16T07:19:06.234Z"
         }
       ]
     },
