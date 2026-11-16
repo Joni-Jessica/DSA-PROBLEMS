@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-16T07:19:06.234Z",
+  "updatedAt": "2026-11-16T08:39:46.923Z",
   "problems": [
     {
       "frontendId": "11",
@@ -124,6 +124,26 @@
           "path": "LeetCode/1838-frequency-of-the-most-frequent-element/1838-frequency-of-the-most-frequent-element.java",
           "sha": "1c5ce5dda1b19a58ff3e64bc230dc8cd544323ee",
           "lastSyncedAt": "2026-11-16T07:19:06.234Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1903",
+      "title": "Largest Odd Number in String",
+      "slug": "largest-odd-number-in-string",
+      "problemName": "1903-largest-odd-number-in-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-odd-number-in-string/",
+      "folderPath": "LeetCode/1903-largest-odd-number-in-string/",
+      "readmePath": "LeetCode/1903-largest-odd-number-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1903-largest-odd-number-in-string.java",
+          "path": "LeetCode/1903-largest-odd-number-in-string/1903-largest-odd-number-in-string.java",
+          "sha": "ae083f5b84f7d73c4842ca7603a120c200a70011",
+          "lastSyncedAt": "2026-11-16T08:39:46.923Z"
         }
       ]
     },
