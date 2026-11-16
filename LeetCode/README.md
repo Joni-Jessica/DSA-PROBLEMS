@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 61 | 27 | 23 | 11 |
+| 62 | 27 | 24 | 11 |
 
 ## Activity
 
@@ -28,30 +28,30 @@ Contains topicwise list of solved problems.
 | 2026-10-07 | 1 |
 | 2026-10-08 | 1 |
 | 2026-11-12 | 3 |
-| 2026-11-16 | 1 |
+| 2026-11-16 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 44% |
-| Math | 20 | 33% |
-| String | 20 | 33% |
+| Array | 28 | 45% |
+| Math | 20 | 32% |
+| String | 20 | 32% |
 | Dynamic Programming | 13 | 21% |
 | Bracket Sequences | 11 | 18% |
 | Hash Table | 11 | 18% |
 | Stack | 11 | 18% |
-| Greedy | 6 | 10% |
-| Two Pointers | 5 | 8% |
-| Binary Search | 4 | 7% |
+| Greedy | 7 | 11% |
+| Binary Search | 5 | 8% |
+| Prefix Sum | 5 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 35 |
+| [Array](Topics/array/) | 36 |
 | [Backtracking](Topics/backtracking/) | 3 |
-| [Binary Search](Topics/binary-search/) | 5 |
+| [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Geometry](Topics/geometry/) | 2 |
-| [Greedy](Topics/greedy/) | 7 |
+| [Greedy](Topics/greedy/) | 8 |
 | [Hash Table](Topics/hash-table/) | 12 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
@@ -81,7 +81,7 @@ Contains topicwise list of solved problems.
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Nim Game](Topics/nim-game/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 5 |
+| [Prefix Sum](Topics/prefix-sum/) | 6 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
@@ -90,8 +90,8 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
-| [Sliding Window](Topics/sliding-window/) | 4 |
-| [Sorting](Topics/sorting/) | 8 |
+| [Sliding Window](Topics/sliding-window/) | 5 |
+| [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 11 |
 | [String](Topics/string/) | 23 |
 | [Tree](Topics/tree/) | 1 |
