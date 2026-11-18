@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 67 | 32 | 24 | 11 |
+| 68 | 33 | 24 | 11 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-12 | 3 |
 | 2026-11-16 | 4 |
 | 2026-11-17 | 1 |
-| 2026-11-18 | 2 |
+| 2026-11-18 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 29 | 43% |
-| String | 25 | 37% |
+| String | 26 | 38% |
 | Math | 21 | 31% |
 | Dynamic Programming | 13 | 19% |
-| Hash Table | 12 | 18% |
+| Hash Table | 13 | 19% |
 | Bracket Sequences | 11 | 16% |
 | Stack | 11 | 16% |
 | Greedy | 8 | 12% |
+| Sorting | 6 | 9% |
 | Two Pointers | 6 | 9% |
-| Binary Search | 5 | 7% |
 
 ## Topics
 
@@ -70,7 +70,7 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Greedy](Topics/greedy/) | 9 |
-| [Hash Table](Topics/hash-table/) | 13 |
+| [Hash Table](Topics/hash-table/) | 14 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
@@ -91,9 +91,9 @@ Contains topicwise list of solved problems.
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
-| [Sorting](Topics/sorting/) | 9 |
+| [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 11 |
-| [String](Topics/string/) | 28 |
+| [String](Topics/string/) | 29 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
