@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 68 | 33 | 24 | 11 |
+| 70 | 34 | 25 | 11 |
 
 ## Activity
 
@@ -28,28 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-11-12 | 3 |
 | 2026-11-16 | 4 |
 | 2026-11-17 | 1 |
-| 2026-11-18 | 3 |
+| 2026-11-18 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 29 | 43% |
-| String | 26 | 38% |
-| Math | 21 | 31% |
+| Array | 30 | 43% |
+| String | 27 | 39% |
+| Math | 21 | 30% |
+| Hash Table | 14 | 20% |
 | Dynamic Programming | 13 | 19% |
-| Hash Table | 13 | 19% |
 | Bracket Sequences | 11 | 16% |
 | Stack | 11 | 16% |
-| Greedy | 8 | 12% |
-| Sorting | 6 | 9% |
+| Greedy | 8 | 11% |
+| Sorting | 7 | 10% |
 | Two Pointers | 6 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 37 |
+| [Array](Topics/array/) | 38 |
 | [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -59,9 +59,9 @@ Contains topicwise list of solved problems.
 | [Brainteaser](Topics/brainteaser/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 3 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
-| [Bucket Sort](Topics/bucket-sort/) | 1 |
+| [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
-| [Counting](Topics/counting/) | 2 |
+| [Counting](Topics/counting/) | 3 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
@@ -70,8 +70,8 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Greedy](Topics/greedy/) | 9 |
-| [Hash Table](Topics/hash-table/) | 14 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Hash Table](Topics/hash-table/) | 15 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
 | [Math](Topics/math/) | 21 |
@@ -91,9 +91,9 @@ Contains topicwise list of solved problems.
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
-| [Sorting](Topics/sorting/) | 10 |
+| [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 11 |
-| [String](Topics/string/) | 29 |
+| [String](Topics/string/) | 30 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
