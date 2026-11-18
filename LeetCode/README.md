@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 66 | 31 | 24 | 11 |
+| 67 | 32 | 24 | 11 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-12 | 3 |
 | 2026-11-16 | 4 |
 | 2026-11-17 | 1 |
-| 2026-11-18 | 1 |
+| 2026-11-18 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 29 | 44% |
-| String | 24 | 36% |
-| Math | 21 | 32% |
-| Dynamic Programming | 13 | 20% |
+| Array | 29 | 43% |
+| String | 25 | 37% |
+| Math | 21 | 31% |
+| Dynamic Programming | 13 | 19% |
 | Hash Table | 12 | 18% |
-| Bracket Sequences | 11 | 17% |
-| Stack | 11 | 17% |
+| Bracket Sequences | 11 | 16% |
+| Stack | 11 | 16% |
 | Greedy | 8 | 12% |
 | Two Pointers | 6 | 9% |
-| Binary Search | 5 | 8% |
+| Binary Search | 5 | 7% |
 
 ## Topics
 
@@ -93,7 +93,8 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 11 |
-| [String](Topics/string/) | 27 |
+| [String](Topics/string/) | 28 |
+| [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
