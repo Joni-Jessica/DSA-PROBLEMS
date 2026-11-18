@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 63 | 28 | 24 | 11 |
+| 66 | 31 | 24 | 11 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 24 days | 40 |
+| 3 days | 24 days | 42 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-26 | 1 |
-| 2026-09-27 | 1 |
 | 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
 | 2026-09-30 | 5 |
@@ -28,28 +26,30 @@ Contains topicwise list of solved problems.
 | 2026-10-07 | 1 |
 | 2026-10-08 | 1 |
 | 2026-11-12 | 3 |
-| 2026-11-16 | 3 |
+| 2026-11-16 | 4 |
+| 2026-11-17 | 1 |
+| 2026-11-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 44% |
-| String | 21 | 33% |
-| Math | 20 | 32% |
-| Dynamic Programming | 13 | 21% |
+| Array | 29 | 44% |
+| String | 24 | 36% |
+| Math | 21 | 32% |
+| Dynamic Programming | 13 | 20% |
+| Hash Table | 12 | 18% |
 | Bracket Sequences | 11 | 17% |
-| Hash Table | 11 | 17% |
 | Stack | 11 | 17% |
-| Greedy | 7 | 11% |
-| Two Pointers | 6 | 10% |
+| Greedy | 8 | 12% |
+| Two Pointers | 6 | 9% |
 | Binary Search | 5 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 36 |
+| [Array](Topics/array/) | 37 |
 | [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -69,12 +69,12 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Geometry](Topics/geometry/) | 2 |
-| [Greedy](Topics/greedy/) | 8 |
-| [Hash Table](Topics/hash-table/) | 12 |
+| [Greedy](Topics/greedy/) | 9 |
+| [Hash Table](Topics/hash-table/) | 13 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 20 |
+| [Math](Topics/math/) | 21 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
@@ -93,7 +93,8 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 11 |
-| [String](Topics/string/) | 24 |
+| [String](Topics/string/) | 27 |
 | [Tree](Topics/tree/) | 1 |
+| [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
 <!---LeetHub Summary End-->
