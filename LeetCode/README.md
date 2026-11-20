@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 73 | 36 | 26 | 11 |
+| 74 | 37 | 26 | 11 |
 
 ## Activity
 
@@ -28,32 +28,32 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 4 |
 | 2026-11-17 | 1 |
 | 2026-11-18 | 6 |
-| 2026-11-20 | 2 |
+| 2026-11-20 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 32 | 44% |
-| String | 27 | 37% |
-| Math | 23 | 32% |
+| Array | 33 | 45% |
+| String | 27 | 36% |
+| Math | 24 | 32% |
+| Hash Table | 15 | 20% |
 | Dynamic Programming | 14 | 19% |
-| Hash Table | 14 | 19% |
 | Bracket Sequences | 11 | 15% |
 | Stack | 11 | 15% |
 | Greedy | 8 | 11% |
-| Sorting | 7 | 10% |
-| Two Pointers | 7 | 10% |
+| Sorting | 8 | 11% |
+| Two Pointers | 7 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 40 |
+| [Array](Topics/array/) | 41 |
 | [Backtracking](Topics/backtracking/) | 3 |
-| [Binary Search](Topics/binary-search/) | 6 |
+| [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 11 |
 | [Brainteaser](Topics/brainteaser/) | 2 |
@@ -70,11 +70,11 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Greedy](Topics/greedy/) | 9 |
-| [Hash Table](Topics/hash-table/) | 15 |
+| [Hash Table](Topics/hash-table/) | 16 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 23 |
+| [Math](Topics/math/) | 24 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
@@ -92,7 +92,7 @@ Contains topicwise list of solved problems.
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
-| [Sorting](Topics/sorting/) | 11 |
+| [Sorting](Topics/sorting/) | 12 |
 | [Stack](Topics/stack/) | 11 |
 | [String](Topics/string/) | 30 |
 | [String Matching](Topics/string-matching/) | 1 |
