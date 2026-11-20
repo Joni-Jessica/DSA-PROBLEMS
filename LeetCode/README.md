@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 70 | 34 | 25 | 11 |
+| 73 | 36 | 26 | 11 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 24 days | 42 |
+| 1 days | 24 days | 43 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
 | 2026-09-30 | 5 |
 | 2026-10-01 | 2 |
@@ -28,28 +27,29 @@ Contains topicwise list of solved problems.
 | 2026-11-12 | 3 |
 | 2026-11-16 | 4 |
 | 2026-11-17 | 1 |
-| 2026-11-18 | 5 |
+| 2026-11-18 | 6 |
+| 2026-11-20 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 30 | 43% |
-| String | 27 | 39% |
-| Math | 21 | 30% |
-| Hash Table | 14 | 20% |
-| Dynamic Programming | 13 | 19% |
-| Bracket Sequences | 11 | 16% |
-| Stack | 11 | 16% |
+| Array | 32 | 44% |
+| String | 27 | 37% |
+| Math | 23 | 32% |
+| Dynamic Programming | 14 | 19% |
+| Hash Table | 14 | 19% |
+| Bracket Sequences | 11 | 15% |
+| Stack | 11 | 15% |
 | Greedy | 8 | 11% |
 | Sorting | 7 | 10% |
-| Two Pointers | 6 | 9% |
+| Two Pointers | 7 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 38 |
+| [Array](Topics/array/) | 40 |
 | [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -65,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 15 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 16 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Geometry](Topics/geometry/) | 2 |
@@ -74,8 +74,9 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 21 |
+| [Math](Topics/math/) | 23 |
 | [Matrix](Topics/matrix/) | 4 |
+| [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
@@ -86,7 +87,7 @@ Contains topicwise list of solved problems.
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
-| [Recursion](Topics/recursion/) | 1 |
+| [Recursion](Topics/recursion/) | 2 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
@@ -97,5 +98,5 @@ Contains topicwise list of solved problems.
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 12 |
+| [Two Pointers](Topics/two-pointers/) | 13 |
 <!---LeetHub Summary End-->
