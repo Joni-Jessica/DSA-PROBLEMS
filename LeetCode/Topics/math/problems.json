@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-20T07:38:51.483Z",
+  "updatedAt": "2026-11-20T08:25:19.024Z",
   "problems": [
     {
       "frontendId": "7",
@@ -84,6 +84,26 @@
           "path": "LeetCode/0204-count-primes/0204-count-primes.java",
           "sha": "12c70305afb21e69dfe3e3c98734948fda152354",
           "lastSyncedAt": "2026-11-16T06:40:55.229Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "LeetCode/0268-missing-number/",
+      "readmePath": "LeetCode/0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0268-missing-number.java",
+          "path": "LeetCode/0268-missing-number/0268-missing-number.java",
+          "sha": "846606ea10aba45ab3a77a49d8c037169cdb7adb",
+          "lastSyncedAt": "2026-11-20T08:25:19.024Z"
         }
       ]
     },
